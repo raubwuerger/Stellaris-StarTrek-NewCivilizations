@@ -24,3 +24,5 @@ Unlocks Effect
 Replicator Upkeep
 Unlocks Policy
 Unlocks Feature
+Gesellschaftsforschung
+Physics Research
