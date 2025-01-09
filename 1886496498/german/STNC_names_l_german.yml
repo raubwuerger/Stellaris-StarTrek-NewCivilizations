@@ -1,5 +1,5 @@
 ﻿l_german:
-  ""
+  
  ADJECTIVE_north_star: "Nordstern"
  ENT_romulan: "Romulanisches Schiff"
  FEDERATION_UFP_Alliance: "Föderationsallianz"
@@ -2501,7 +2501,7 @@
  NAME_Terra_Prime_Adjective: "Terraner"
  NAME_terra_prime: "Terra Prime"
  NAME_Terralysium: "New Eden"
- NAME_Terran_Adjective: "„Terraner“ #Entfernen später"
+ NAME_Terran_Adjective: "Terraner #Entfernen später"
  NAME_Terran_Empire_Adjective: "Terraner"
  NAME_terran_empire: "Terranisches Imperium"
  NAME_Terran_Vanguard_Starbase: "Vanguard Starbase"
