@@ -15,3 +15,6 @@ Bolt
 WIP - In Arbeit
 Technology Level
 Class Heavy Cruiser
+Empire Opinion
+Empire Power Difference
+Wary Of Neighbour With Anti-[Root.GetAdj] Sentiment
