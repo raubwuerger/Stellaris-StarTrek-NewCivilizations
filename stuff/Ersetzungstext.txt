@@ -10,11 +10,17 @@
 
 Tier -> Stufe
 Refit
-Unlocks Component
+Unlocks Component -> Schaltet Komponente frei
 Bolt
 WIP - In Arbeit
-Technology Level
+Technology Level -> Technologie Level
 Class Heavy Cruiser
 Empire Opinion
 Empire Power Difference
 Wary Of Neighbour With Anti-[Root.GetAdj] Sentiment
+Burst
+Pulse Cannon -> Impulskanone
+Unlocks Effect
+Replicator Upkeep
+Unlocks Policy
+Unlocks Feature
