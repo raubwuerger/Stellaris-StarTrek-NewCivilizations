@@ -26,3 +26,18 @@ Unlocks Policy
 Unlocks Feature
 Gesellschaftsforschung
 Physics Research
+geformt	-> gestählt
+Bienenstock -> schwarm
+Lektion -> Einheit
+Referat -> Einheit
+
+___NE978___ Bio-Engineered Defence Force
+___NE979___ Bio-Warfare Defence Force
+___NE980___ Clone Defence Force
+___NE981___ Defence Force
+___NE982___ Fleet
+___NE983___ Guard
+___NE984___ Indentured Defence Force
+___NE985___ Mechanised Defence Force
+___NE986___ Psi Defence Force
+___NE987___ Synthetic Defence Force
