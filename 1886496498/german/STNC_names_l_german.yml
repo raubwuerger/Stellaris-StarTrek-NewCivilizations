@@ -932,7 +932,7 @@ l_german:
  NAME_Edo_Unity_Adjective: "Edo"
  NAME_Edo_Unity: "Edo-Einheit"
  NAME_Efrosian_League_Adjective: "Efrosian"
-  ""
+
  NAME_Elachi_Sgolth_Early: "$elachi_sgolth$}"
  NAME_Elachi_Sgolth_Mid: "$elachi_sgolth$"
  NAME_Elachi_Sgolth_Late: "$elachi_sgolth$"
@@ -940,15 +940,15 @@ l_german:
  NAME_Elachi_Monbosh_Early: "$elachi_monbosh$"
  NAME_Elachi_Monbosh_Mid: "$elachi_monbosh$"
  NAME_Elachi_Monbosh_Late: "$elachi_monbosh$"
-  ""
+
  NAME_Elachi_Tabesh_Early: "$elachi_tabesh$"
  NAME_Elachi_Tabesh_Mid: "$elachi_tabesh$"
  NAME_Elachi_Tabesh_Late: "$elachi_tabesh$"
-  ""
+
  NAME_Elachi_Qulash_Early: "$elachi_qulash$"
  NAME_Elachi_Qulash_Mid: "$elachi_qulash$"
  NAME_Elachi_Qulash_Late: "$elachi_qulash$"
-  ""
+
  NAME_Elachi_Synarchy: "Elachi Synarchie"
  NAME_Elachi_Synarchy_Adjective: "Elachi"
  NAME_elasian_imperium: "Elasisches Imperium"

@@ -833,7 +833,7 @@ l_german:
  ap_commercial_ventures_desc: "Das freie Unternehmertum ist das Lebenselixier einer funktionierenden Gesellschaft. Wenn wir unser Volk ermutigen, kommerzielle Möglichkeiten zu nutzen, können sowohl die Menschen als auch der Staat gedeihen."
  ap_commercial_ventures_rare_bonus: "Handelsstation Seltenes Inventar: §G+25%§!"
  ap_commercial_ventures: "Kommerzielle Unternehmungen"
-  ""
+
  ap_cybernetic_inclusion_desc: "Fortschritte in der medizinischen Wissenschaft ermöglichen eine neue Generation von kybernetischen Augmentierungen, die selbst schwerste Verletzungen oder angeborene Leiden lindern können."
  ap_cybernetic_inclusion_tooltip: "Schaltet die Leader-Eigenschaft §GRemediale Kybernetik§! frei."
  ap_cybernetic_inclusion: "Kybernetische Eingliederung"
@@ -1200,7 +1200,7 @@ l_german:
  AXA_tooth_plural: "Zähne"
  AXA_tooth: "Zahn"
  AXA: "Axanari"
-  ""
+
  BAJ_compliment_01: "$humanoid_compliment$"
  BAJ_compliment_plural_01: "$humanoid_compliment_plural$"
  BAJ_desc: "$generic_species_desc$ $generic_species_desc$"
@@ -6160,12 +6160,12 @@ l_german:
  edict_explore_gamma_quadrant_desc: "Bereiten Sie ein Wissenschaftsschiff für eine mehrjährige Erkundung des Gamma-Quadranten vor."
  edict_explore_gamma_quadrant_effect: "Ermöglicht $DOMINION_INVASION_2_PROJECT$ Projekt\n"
  edict_explore_gamma_quadrant: "Gamma-Quadrant-Vermessung"
-  ""
+
  edict_explore_guardian_of_forever_desc: "Bereiten Sie einen Anführer für eine mehrjährige temporale Untersuchung durch den Wächter der Ewigkeit vor."
  edict_explore_guardian_of_forever_effect: "Ermöglicht $EXPLORE_GUARDIAN_OF_FOREVER_PROJECT$ Projekt\n"
  edict_explore_guardian_of_forever: "Wächter der Ewigkeit - Temporale Untersuchung"
 
-  ""
+
 
 
 
@@ -6380,8 +6380,8 @@ l_german:
  ELA_tooth_plural: "Zähne"
  ELA_tooth: "Zahn"
  ELA: "Elasian"
-  ""
-  ""
+
+
  ELAS_compliment_01: "$humanoid_compliment$"
  ELAS_compliment_plural_01: "$humanoid_compliment_plural$"
  ELAS_desc: "$generic_species_desc$ $generic_species_desc$"
@@ -8437,7 +8437,7 @@ l_german:
  GAR_tooth_plural: "Zähne"
  GAR_tooth: "Zahn"
  GAR: "Garidian"
-  ""
+
  gateway_andorian_vulcan_ships: "£science_ship£ §HAndorianisch-Vulkanische Schiffe§!\n\n§EDiese Technologie ist verfügbar, da wir Zugang zu andorianischen und vulkanischen Schiffsdesigns haben."
  gateway_bolian_starfleet_ships: "£science_ship£ §HBolianische Sternenflottenschiffe§!\n\n§EDiese Technologie ist verfügbar, da wir Zugang zu bolianischen und Sternenflottenschiffen haben.§!"
  gateway_caitian_romulan_ships: "£science_ship£ §HCaitianisch-Romulanische Schiffe§!\n\n§EDiese Technologie ist verfügbar, da wir Zugang zu den Entwürfen sowohl der caitianischen als auch der romulanischen Schiffe haben.§!"
@@ -8450,7 +8450,7 @@ l_german:
  gateway_holography: "£science_ship£ §HHolographie§!\n\n§EDieser Pfad schaltet fortgeschrittenere Arten von Hologramm-Projektionstechniken frei.§!"
  gateway_klingon_caitian_ships: "£science_ship£ §HKlingonisch-Caitianische Schiffe§!\n\n§EDiese Technologie ist verfügbar, weil wir Zugang zu klingonischen und caitianischen Schiffsdesigns haben.§!"
  gateway_law: "£science_ship£ §HGesetz und Ordnung§!\n\n§EDiese Technologie umfasst die Erforschung von Doktrinen, Philosophien und Regelwerken, die es uns ermöglichen werden, den widerspenstigen Teil unserer Bevölkerung besser zu regieren - einschließlich verbesserter £Bau von §YPolizeistationen§! Es wird uns helfen, Unruhen und Piraterie zu bekämpfen."
-  ""
+
  gateway_starfleet_andorian_ships: "£science_ship£ §HStarfleet-Andorianische Schiffe§!\n\n§EDiese Technologie ist verfügbar, weil wir Zugang zu den Schiffsdesigns sowohl der Sternenflotte als auch der Andorianer haben.§!"
  gateway_starfleet_andorian_tellarite_ships: "£science_ship£ §HStarfleet-Andorian-Tellarite Ships§!\n\n§EDiese Technologie ist verfügbar, da wir Zugang zu den Schiffsdesigns der Sternenflotte, der Andorianer und der Tellariten haben.§!"
  gateway_starfleet_caitian_ships: "£science_ship£ §HStarfleet-Caitian Ships§!\n\n§EDiese Technologie ist verfügbar, da wir Zugang zu den Schiffsentwürfen der Sternenflotte und der Caitianer haben.§!"
@@ -8463,7 +8463,7 @@ l_german:
  gateway_starfleet_tellarite_ships: "£science_ship£ §HStarfleet-Tellarite Ships§!\n\n§EDiese Technologie ist verfügbar, da wir Zugang zu den Schiffsdesigns der Sternenflotte und der Tellariten haben.§!"
  gateway_starfleet_vulcan_ships: "£science_ship£ §HStarfleet-Vulcan Ships§!\n\n§EDiese Technologie ist verfügbar, da wir Zugang zu den Schiffsdesigns der Sternenflotte und der Vulkanier haben.§!"
  gateway_starfleet_xindi_ships: "£science_ship£ §HStarfleet-Xindi Ships§!\n\n§EDiese Technologie ist verfügbar, da sowohl die Sternenflotte als auch die Xindi-Schiffsdesigns verfügbar sind.§!"
-  ""
+
  gave_special_treatment_to_other: "Besondere Behandlung"
  gender_rights_cannot_reduce: "Keine Rückschritte bei den Geschlechterrechten"
  gender_rights_equality_desc: "Die Gleichstellung der Geschlechter ist die Norm für raumfahrende Zivilisationen."
@@ -9040,7 +9040,7 @@ l_german:
 
  GRANT_PLUNDER_DESC: "Bestimmen Sie ein System, das für die Plünderung durch [This.GetName] zur Verfügung steht."
  GRANT_PLUNDER: "Plünderung gewähren"
-  ""
+
 
  GRAVIMETRIC_TORPEDO_1_DESC: "$GRAVIMETRIC_TORPEDO_DESC$"
  GRAVIMETRIC_TORPEDO_1: "Gravimetrischer Torpedo Mk I"
@@ -9639,7 +9639,7 @@ l_german:
  human_slea_mid_3: "Slea Triu"
  human_slea_plural: "Schlachtkreuzer der Slea-Klasse"
  human_slea: "Schlachtkreuzer der Slea-Klasse"
-  ""
+
  human_morrigan_mid_1: "Morrigan"
  human_morrigan_mid_2: "Morrigan Dara"
  human_morrigan_mid_3: "Morrigan Triu"
@@ -14694,7 +14694,7 @@ l_german:
  mod_planet_enforcers_energy_upkeep_add: "$job_enforcer$ £energy£ Energie Unterhalt"
  mod_planet_enforcers_influence_produces_add: "$job_enforcer$ £influence£ Ausgabe von Einfluss"
  mod_planet_enforcers_unity_produces_add: "$job_enforcer$ £unity£ Einheitsleistung"
-  ""
+
  mod_planet_miners_dilithium_produces_add: "£dilithium£ $dilithium$ von £job_miner£ $job_miner$"
  mod_planet_engineers_components_produces_add: "£components£ $components$ von £job_engineer£ [GetEngineerJobNamePlural]"
  mod_planet_engineers_components_produces_mult: "£components£ $components$ von £job_engineer£ [GetEngineerJobNamePlural]"
@@ -16383,7 +16383,7 @@ l_german:
  pft_STNC_gl_order: "Strom der Ordnung"
  pft_STNC_gl_prosperity_desc: "Sicherheit kann nur durch eine zufriedene, wohlhabende Bevölkerung erreicht werden."
  pft_STNC_gl_prosperity: "Strom des Wohlstandes"
-  ""
+
  pft_STNC_klingon_ho_desc: "Ein großes Haus."
  pft_STNC_klingon_ho_antaak_desc: "$pft_STNC_klingon_ho_desc$"
  pft_STNC_klingon_ho_antaak: "Haus von Antaak"
@@ -19815,11 +19815,11 @@ l_german:
  required_impulse_frigate_DESC: "$required_impulse_DESC$"
  required_impulse_frigate: "$required_impulse$ $required_impulse$"
  required_impulse: "Impulsantrieb"
-  ""
+
  REQUIRED_THRONE_DECK_1: "Thron-Deck"
  REQUIRED_THRONE_DECK_1_DESC: "Der Staatsapparat kann nur mit einer ausgeklügelten Suite von Kommunikations- und Analysetools mobil gemacht werden."
  required_throne_deck_tooltip: "Schaltet die Flottenaktion §YUnterstütze die Regierung§! frei"
-  ""
+
  REQUIRED_MINING_APPARATUS_1: "Bergbaugerät"
  REQUIRED_MINING_APPARATUS_2: "Verbessertes Bergbaugerät"
  REQUIRED_MINING_APPARATUS_3: "Fortgeschrittener Bergbauapparat"
@@ -24548,9 +24548,9 @@ l_german:
  START_SCREEN_DEV: "Vor langer, langer Zeit wurde unsere Lebensweise in einem nicht weit entfernten Land psychisch angegriffen. Wir dachten, unsere von Dschinns angeführten Führer könnten die Telepathen überreden, ihre telepathischen Angriffe zu stoppen. Aber ihre Reaktion hat uns nicht begeistert, sie haben die Kommunikation unterbrochen und versucht, uns zu töten. Wir entkamen dieser Falle und trafen auf diejenigen, die gegen ihre mentalen Angriffe immun waren, die Jedap. \n\nNie wieder werden wir zulassen, dass diejenigen, die anders sind als wir, unsere Lebensweise bedrohen, und nie wieder werden wir zulassen, dass Telepathen unser Imperium korrumpieren. Wir werden sie bis an die Grenzen des Weltraums jagen."
  START_SCREEN_DOM: "Wir dienen den Gründern in allen Dingen. Andere Ethnien mögen an höhere Mächte glauben, aber nur wir sind zuversichtlich, dass unsere Götter existieren und mit uns sind.\n\nSeit der erste Gründer von unseren Vorfahren beschützt wurde, sind wir damit betraut worden, ihren Willen auszuführen. Mit der Loyalität der Jem'Hadar, die durch die Weißen garantiert wird, kann sich niemand gegen uns stellen.\n\n§Y'Das Dominion hat mehr als zweitausend Jahre überdauert und wird auch dann noch bestehen, wenn die Föderation bereits zu Staub zerfallen ist.'§! - Weyoun 6"
  START_SCREEN_DOS: "Unser Ehrenkodex ist unsere Lebensweise, die wir über Generationen hinweg perfektioniert und zu einer fein ausgefeilten Philosophie entwickelt haben. Jeder Dosi muss jedem Hindernis, ob real oder vermeintlich, die Stirn bieten und darf niemals vor einer Herausforderung zurückschrecken. Feigheit und Schwäche werden mit Verachtung behandelt.\n\nUnsere Körper sind mit unserem Status gekennzeichnet, unsere Köpfe sind rasiert und mit weißen Linien und blauen Punkten verziert, die Macht, Reichtum und Rang anzeigen. So wissen wir, wo die Macht unter uns liegt und wer die größten Händler und Mogule von uns allen sind. Unsere Loyalität gilt nur uns selbst, nur die Starken können darauf hoffen, unseren Respekt zu verdienen.\n\n§Y'Hier geht es nur um Profit, und wie die Ferengi meinen es die Dosi sehr ernst, wenn es um Profit geht.'§! - Zyree"
-  ""
+
  START_SCREEN_ElachiSynarchy: "Das Netzwerk wurde vergiftet, unser Geburtshaus hat uns zurückgewiesen. Wir müssen den leeren Raum betreten, um etwas Neues aufzubauen. \n\nThe... animals? Denen, die bereits hier leben, kann man nicht trauen. Aber sie können zu Elachi gemacht werden. Sie können zu uns werden. \n\nWir müssen beharrlich sein."
-  ""
+
  START_SCREEN_EarthKhanate: "Selbstverbesserung.\n\nSie ist seit den Anfängen der Zivilisation eine Quelle der Kraft für die Menschheit. Der Drang, sich selbst, seine Mitmenschen und sogar ganze Nationen zu verbessern, hat die Geschichte unserer Spezies durch Zeiten des Unfriedens und Zeiten des Friedens gleichermaßen geprägt. Und es war derselbe Antrieb, der die ursprünglichen Augments hervorbrachte, unsere gentechnisch veränderten Vorfahren, die den Grundstein für die Entwicklung der gesamten menschlichen Ethnie zu unserer heutigen Überlegenheit legten.\n\nDurch Diplomatie, List und Eroberung brachte Khan Noonien Singh, der größte unseres Volkes, die Erde unter ein einziges vereintes Banner... unser Banner. Und obwohl wir die Menschheit weiter gebracht haben, als sie es je zuvor vermochte, können wir nicht tatenlos zusehen. Derselbe Antrieb, der uns bis zu diesem Tag gebracht hat, treibt uns weiter zu den Sternen selbst, um uns vor neuen Herausforderungen zu beweisen und denen, die sich für ebenbürtig halten, die Wahrheit zu zeigen.\n\nEs wird vor allem die Menschheit sein, die diese Galaxie und ihre Bewohner zur Vollkommenheit führen wird.\n\n§Y'Es wurde gesagt, dass gesellschaftliche Anlässe nur versteckte Kriegsführung sind. Viele bevorzugen es ehrlicher - offener.'§! - Khan Noonien Singh"
  START_SCREEN_EfrosianLeague: "Der Segen der Lieder unserer Vorfahren sei mit Ihnen allen, Bürger von Efros. Mögen sie Sie durch die Mühen und Schwierigkeiten des täglichen Lebens führen, so wie sie einst viele durch die blendenden Stürme unserer Welt geführt haben. So wie sie uns auch heute leiten, wenn wir in einen neuen und anderen Sturm, eine unbekannte Galaxie, hinausgehen. So wie unsere Kriegerpriester einst in die Stürme aufbrachen, um für unsere Vorfahren Nahrung und Vorräte zum Überleben zu finden, und später, um alle Efrosianer zu finden und zu vereinen, brechen wir nun in die Leere des Weltraums auf, um neue Stämme, neue Lieder und neue Herausforderungen zu finden. \n\n§Y'Dieser Präsident steht nicht über dem Gesetz.'§! - Präsident Ra-ghoratreii"
  START_SCREEN_EnolianOrder: "Handel und Recht, die beiden wesentlichen Elemente einer blühenden Gesellschaft. Wird eines von beiden behindert, ist die Katastrophe vorprogrammiert. Der Enolianische Orden hat jahrelang von seiner Position im Zentrum der lokalen Handelswege profitiert. Manche würden sagen, dass unsere Richter... wahllos urteilen, aber es ist logisch, dass es besser ist, einen Unschuldigen einzusperren, als einen Schuldigen frei herumlaufen zu lassen.\n\n§Y'Ich würde an Ihrer Stelle ruhig bleiben. Die Wachen mögen keine Fragen.'§! - Kuroda Lor-ehn"
@@ -28315,7 +28315,7 @@ l_german:
  tech_effective_categorisation_borg: "$tech_effective_categorisation_machine$ $tech_effective_categorisation_machine$"
  tech_effective_categorisation_machine_desc: "Verbesserte Software für die Kategorisierung von Verwaltungen ermöglicht die Bildung größerer Verwaltungsgruppen und eine höhere Effektivität."
  tech_effective_categorisation_machine: "Effektive Kategorisierung"
-  ""
+
  tech_energy_weapon_damage_1_desc: "Verbesserte Projektionstechniken ermöglichen höhere Energiewaffenertschöpfung bei gleichbleibendem Stromverbrauch."
  tech_energy_weapon_damage_1: "Energie-Projektionseffizienz Mk I"
  tech_energy_weapon_damage_10_desc: "$tech_energy_weapon_damage_1_desc$"
@@ -31239,9 +31239,9 @@ l_german:
  tech_mining_8: "Transporter-unterstützter Bergbau"
  tech_mining_9_desc: "Mit Hilfe der Transportertechnologie können seltene Mineralien in großen Mengen abgetrennt und ausgebeutet werden."
  tech_mining_9: "Transporter-erweiterter Bergbau"
-  ""
-  ""
-  ""
+
+
+
  tech_mining_apparatus_1_desc: "Konstruktionsschiffe können mit speziellen Bergbauausrüstungen ausgestattet werden."
  tech_mining_apparatus_1: "Bergbau-Ausrüstung"
  tech_mining_apparatus_2_desc: "Konstruktionsschiffe können mit verbesserten Bergbauspezialgeräten ausgestattet werden."
@@ -41028,7 +41028,7 @@ l_german:
 
 
 
-  ""
+
 
 
 
@@ -41038,63 +41038,63 @@ l_german:
  tech_commerce_office_2_desc: "$tech_commerce_office_1_desc$"
  tech_commerce_office_3: "Umfassende Handelsbüros"
  tech_commerce_office_3_desc: "$tech_commerce_office_1_desc$"
-  ""
+
  UTILITY_AUXILIARY_COMMERCE_OFFICE_1: "Basis-Handelsbüro"
  UTILITY_AUXILIARY_COMMERCE_OFFICE_1_DESC: "Ein kluger Kommandant weiß, dass es keinen besseren Ort gibt, um die Saat der Profitabilität zu säen, als an Bord eines Raumschiffs. Das Handelsbüro an Bord eines Raumschiffs ist voll besetzt und mit Waren bestückt. Es bietet reichlich Gelegenheit für unternehmerische Unternehmungen, wo immer unsere Flotten auch unterwegs sind."
  UTILITY_AUXILIARY_COMMERCE_OFFICE_2: "Handelskontor"
  UTILITY_AUXILIARY_COMMERCE_OFFICE_2_DESC: "$UTILITY_AUXILIARY_COMMERCE_OFFICE_1_DESC$"
  UTILITY_AUXILIARY_COMMERCE_OFFICE_3: "Umfassendes Handelskontor"
  UTILITY_AUXILIARY_COMMERCE_OFFICE_3_DESC: "$UTILITY_AUXILIARY_COMMERCE_OFFICE_1_DESC$"
-   ""
+ 
  utility_auxiliary_commerce_office_1_set: "Basis-Handelsbüro"
  utility_auxiliary_commerce_office_1_set_DESC: "Ein kluger Kommandant weiß, dass es keinen besseren Ort gibt, um die Saat der Profitabilität zu säen, als an Bord eines Raumschiffs. Das Handelsbüro an Bord eines Raumschiffs ist voll besetzt und mit Waren bestückt. Es bietet reichlich Gelegenheit für unternehmerische Unternehmungen, wo immer unsere Flotten auch unterwegs sind."
  utility_auxiliary_commerce_office_2_set: "Handelskontor"
  utility_auxiliary_commerce_office_2_set_DESC: "$utility_auxiliary_commerce_office_1_set_DESC$"
  utility_auxiliary_commerce_office_3_set: "Umfassendes Handelskontor"
  utility_auxiliary_commerce_office_3_set_DESC: "$utility_auxiliary_commerce_office_1_set_DESC$"
-  ""
+
  tech_utility_rcs_accelerator_1: "RCS-Beschleuniger Mk I"
  tech_utility_rcs_accelerator_1_desc: "Die Erhöhung der verfügbaren Schubleistung des Reaktionskontroll-Triebwerkssystems eines Schiffes führt zu einer deutlich verbesserten Manövrierfähigkeit, allerdings auf Kosten des Deuterium-Treibstoffverbrauchs."
  tech_utility_rcs_accelerator_2: "RCS-Beschleuniger Mk II"
  tech_utility_rcs_accelerator_2_desc: "$tech_utility_rcs_accelerator_1_desc$"
  tech_utility_rcs_accelerator_3: "RCS-Beschleuniger Mk III"
  tech_utility_rcs_accelerator_3_desc: "$tech_utility_rcs_accelerator_1_desc$ $tech_utility_rcs_accelerator_1_desc$"
-  ""
+
  UTILITY_ENGINEERING_RCS_ACCELERATOR_1: "RCS-Beschleuniger Mk I"
  UTILITY_ENGINEERING_RCS_ACCELERATOR_1_DESC: "Die Erhöhung der verfügbaren Schubleistung des Reaktionskontroll-Triebwerkssystems eines Schiffes führt zu einer stark verbesserten Manövrierfähigkeit, allerdings auf Kosten des Deuterium-Treibstoffverbrauchs."
  UTILITY_ENGINEERING_RCS_ACCELERATOR_2: "RCS-Beschleuniger Mk II"
  UTILITY_ENGINEERING_RCS_ACCELERATOR_2_DESC: "$UTILITY_ENGINEERING_RCS_ACCELERATOR_1_DESC$"
  UTILITY_ENGINEERING_RCS_ACCELERATOR_3: "RCS-Beschleuniger Mk III"
  UTILITY_ENGINEERING_RCS_ACCELERATOR_3_DESC: "$UTILITY_ENGINEERING_RCS_ACCELERATOR_1_DESC$"
-   ""
+ 
  utility_engineering_rcs_accelerator_1_set: "RCS-Beschleuniger Mk I"
  utility_engineering_rcs_accelerator_1_set_DESC: "Die Erhöhung der verfügbaren Schubleistung des Reaktionskontroll-Triebwerkssystems eines Schiffes führt zu einer stark verbesserten Manövrierfähigkeit, allerdings auf Kosten des Deuterium-Treibstoffverbrauchs."
  utility_engineering_rcs_accelerator_2_set: "RCS-Beschleuniger Mk II"
  utility_engineering_rcs_accelerator_2_set_DESC: "$utility_engineering_rcs_accelerator_1_set_DESC$"
  utility_engineering_rcs_accelerator_3_set: "RCS-Beschleuniger Mk III"
  utility_engineering_rcs_accelerator_3_set_DESC: "$utility_engineering_rcs_accelerator_1_set_DESC$ $utility_engineering_rcs_accelerator_1_set_DESC$"
-  ""
+
  tech_utility_docking_umbilicals_1: "Docking Umbilicals Mk I"
  tech_utility_docking_umbilicals_1_desc: "Die Ausstattung eines Schiffes mit zahlreichen ausfahrbaren Andockbrücken für Personal und Transferleitungen für Rohstoffe ermöglicht eine weitaus effizientere Wartung des Schiffes, wenn es angedockt ist."
  tech_utility_docking_umbilicals_2: "Docking Umbilicals Mk II"
  tech_utility_docking_umbilicals_2_desc: "$tech_utility_docking_umbilicals_1_desc$"
  tech_utility_docking_umbilicals_3: "Docking Umbilicals Mk III"
  tech_utility_docking_umbilicals_3_desc: "$tech_utility_docking_umbilicals_1_desc$"
-  ""
+
  UTILITY_ENGINEERING_DOCKING_UMBILICALS_1: "Docking Umbilicals Mk I"
  UTILITY_ENGINEERING_DOCKING_UMBILICALS_1_DESC: "Die Ausstattung eines Schiffes mit zahlreichen ausfahrbaren Andockbrücken für das Personal und Transferleitungen für Rohstoffe ermöglicht eine wesentlich effizientere Wartung des Schiffes, wenn es angedockt ist."
  UTILITY_ENGINEERING_DOCKING_UMBILICALS_2: "Docking Umbilicals Mk II"
  UTILITY_ENGINEERING_DOCKING_UMBILICALS_2_DESC: "$UTILITY_ENGINEERING_DOCKING_UMBILICALS_1_DESC$"
  UTILITY_ENGINEERING_DOCKING_UMBILICALS_3: "Docking Umbilicals Mk III"
  UTILITY_ENGINEERING_DOCKING_UMBILICALS_3_DESC: "$UTILITY_ENGINEERING_DOCKING_UMBILICALS_1_DESC$"
-   ""
+ 
  utility_engineering_docking_umbilicals_1_set: "Docking Umbilicals Mk I"
  utility_engineering_docking_umbilicals_1_set_DESC: "Die Ausstattung eines Schiffes mit zahlreichen ausfahrbaren Andockbrücken für das Personal und Transferleitungen für Rohstoffe ermöglicht eine wesentlich effizientere Wartung des Schiffes, wenn es angedockt ist."
  utility_engineering_docking_umbilicals_2_set: "Docking Umbilicals Mk II"
  utility_engineering_docking_umbilicals_2_set_DESC: "$utility_engineering_docking_umbilicals_1_set_DESC$"
  utility_engineering_docking_umbilicals_3_set: "Docking Umbilicals Mk III"
  utility_engineering_docking_umbilicals_3_set_DESC: "$utility_engineering_docking_umbilicals_1_set_DESC$"
-   ""
+ 
  mod_ships_latinum_produces_add: "Schiffe £latinum£ §YLatinum§! Produktion"
 
 
@@ -41105,101 +41105,101 @@ l_german:
  tech_torpedo_accelerator_2_desc: "$tech_torpedo_accelerator_1_desc$"
  tech_torpedo_accelerator_3: "Torpedo-Autoloader Mk III"
  tech_torpedo_accelerator_3_desc: "$tech_torpedo_accelerator_1_desc$ $tech_torpedo_accelerator_1_desc$"
-  ""
+
  UTILITY_TACTICAL_TORPEDO_ACCELERATOR_1: "Torpedo-Autoloader Mk I"
  UTILITY_TACTICAL_TORPEDO_ACCELERATOR_1_DESC: "Erweitern Sie die Torpedobuchten mit magnetischen Beschleunigern, Anti-Schwerkraft-Liftsystemen und erhöhter Magazinkapazität der ersten Stufe, um das taktische Potenzial erheblich zu verbessern."
  UTILITY_TACTICAL_TORPEDO_ACCELERATOR_2: "Torpedo-Autoloader Mk II"
  UTILITY_TACTICAL_TORPEDO_ACCELERATOR_2_DESC: "$UTILITY_TACTICAL_TORPEDO_ACCELERATOR_1_DESC$"
  UTILITY_TACTICAL_TORPEDO_ACCELERATOR_3: "Torpedo-Autoloader Mk III"
  UTILITY_TACTICAL_TORPEDO_ACCELERATOR_3_DESC: "$UTILITY_TACTICAL_TORPEDO_ACCELERATOR_1_DESC$ $UTILITY_TACTICAL_TORPEDO_ACCELERATOR_1_DESC$"
-   ""
+ 
  utility_tactical_torpedo_accelerator_1_set: "Torpedo-Autoloader Mk I"
  utility_tactical_torpedo_accelerator_1_set_DESC: "Erweitern Sie die Torpedobuchten mit magnetischen Beschleunigern, Anti-Schwerkraft-Liftsystemen und erhöhter Magazinkapazität der ersten Stufe, um das taktische Potenzial erheblich zu verbessern."
  utility_tactical_torpedo_accelerator_2_set: "Torpedo-Autoloader Mk II"
  utility_tactical_torpedo_accelerator_2_set_DESC: "$utility_tactical_torpedo_accelerator_1_set_DESC$"
  utility_tactical_torpedo_accelerator_3_set: "Torpedo-Autoloader Mk III"
  utility_tactical_torpedo_accelerator_3_set_DESC: "$utility_tactical_torpedo_accelerator_1_set_DESC$ $utility_tactical_torpedo_accelerator_1_set_DESC$"
-  ""
+
  tech_prefire_chamber_1: "Vorfeuerkammer Mk I"
  tech_prefire_chamber_1_desc: "Die Integration von Vorfeuerkammern in das Hauptenergienetz verstärkt das zerstörerische Potenzial der Waffen §GBolt§!, §GPulskanone§! und §GBurst§!, verringert aber die Wirksamkeit der Waffen §RBeam§! und §RLance§!"
  tech_prefire_chamber_2: "Vorfeuerkammer Mk II"
  tech_prefire_chamber_2_desc: "$tech_prefire_chamber_1_desc$"
  tech_prefire_chamber_3: "Vorfeuerkammer Mk III"
  tech_prefire_chamber_3_desc: "$tech_prefire_chamber_1_desc$ $tech_prefire_chamber_1_desc$"
-  ""
+
  UTILITY_TACTICAL_PREFIRE_CHAMBER_1: "Vorfeuerkammer Mk I"
  UTILITY_TACTICAL_PREFIRE_CHAMBER_1_DESC: "Die Integration von Vorfeuerkammern in das Hauptenergienetz verstärkt das zerstörerische Potenzial der Waffen §GBolzen§!, §GImpulskanone§! und §GBurst§!, verringert aber die Wirksamkeit der Waffen §RBeam§! und §RLance§!"
  UTILITY_TACTICAL_PREFIRE_CHAMBER_2: "Vorfeuerkammer Mk II"
  UTILITY_TACTICAL_PREFIRE_CHAMBER_2_DESC: "$UTILITY_TACTICAL_PREFIRE_CHAMBER_1_DESC$"
  UTILITY_TACTICAL_PREFIRE_CHAMBER_3: "Vorfeuerkammer Mk III"
  UTILITY_TACTICAL_PREFIRE_CHAMBER_3_DESC: "$UTILITY_TACTICAL_PREFIRE_CHAMBER_1_DESC$"
-   ""
+ 
  utility_tactical_prefire_chamber_1_set: "Vorfeuerkammer Mk I"
  utility_tactical_prefire_chamber_1_set_DESC: "Die Integration von Vorfeuerkammern in das Hauptenergienetz verstärkt das zerstörerische Potenzial von §GBolzen§!, §GImpulskanone§! und §GBurst§! Waffen, verringert aber die Wirksamkeit von §RBeam§! und §RLance§! Waffen."
  utility_tactical_prefire_chamber_2_set: "Vorfeuerkammer Mk II"
  utility_tactical_prefire_chamber_2_set_DESC: "$utility_tactical_prefire_chamber_1_set_DESC$"
  utility_tactical_prefire_chamber_3_set: "Vorfeuerkammer Mk III"
  utility_tactical_prefire_chamber_3_set_DESC: "$utility_tactical_prefire_chamber_1_set_DESC$ $utility_tactical_prefire_chamber_1_set_DESC$"
-  ""
+
  tech_directed_energy_manifold_1: "Verteiler für gerichtete Energie Mk I"
  tech_directed_energy_manifold_1_desc: "Wenn Sie zusätzliche Verteiler direkt an die Energieemitter anschließen, erhöht sich die Feuerrate der Waffen §GBeam§! und §GLance§!, aber die Wirksamkeit der Waffen §RBolt§!, §RPulse Cannon§! und §RBurst§! wird verringert."
  tech_directed_energy_manifold_2: "Verteiler für gerichtete Energie Mk II"
  tech_directed_energy_manifold_2_desc: "$tech_directed_energy_manifold_1_desc$."
  tech_directed_energy_manifold_3: "Directed Energy Distribution Manifold Mk III"
  tech_directed_energy_manifold_3_desc: "$tech_directed_energy_manifold_1_desc$"
-  ""
+
  UTILITY_TACTICAL_DIRECTED_ENERGY_MANIFOLD_1: "Verteiler für gerichtete Energie Mk I"
  UTILITY_TACTICAL_DIRECTED_ENERGY_MANIFOLD_1_DESC: "Das direkte Anschließen von zusätzlichen Verteilern an die Energieemitter erhöht die Feuerrate der Waffen §GBeam§! und §GLance§!, verringert aber die Wirksamkeit der Waffen §RBolt§!, §RPulse Cannon§! und §RBurst§!"
  UTILITY_TACTICAL_DIRECTED_ENERGY_MANIFOLD_2: "Verteiler für gerichtete Energie Mk II"
  UTILITY_TACTICAL_DIRECTED_ENERGY_MANIFOLD_2_DESC: "$UTILITY_TACTICAL_DIRECTED_ENERGY_MANIFOLD_1_DESC$."
  UTILITY_TACTICAL_DIRECTED_ENERGY_MANIFOLD_3: "Directed Energy Distribution Manifold Mk III"
  UTILITY_TACTICAL_DIRECTED_ENERGY_MANIFOLD_3_DESC: "$UTILITY_TACTICAL_DIRECTED_ENERGY_MANIFOLD_1_DESC$"
-   ""
+ 
  utility_tactical_directed_energy_manifold_1_set: "Energieverteilungskanal Mk I"
  utility_tactical_directed_energy_manifold_1_set_DESC: "Wenn Sie zusätzliche Verteiler direkt an die Energieemitter anschließen, erhöht sich die Feuerrate der Waffen §GBeam§! und §GLance§!, aber die Effektivität der Waffen §RBolt§!, §RPulse Cannon§! und §RBurst§! wird verringert."
  utility_tactical_directed_energy_manifold_2_set: "Energieverteilungskanal Mk II"
  utility_tactical_directed_energy_manifold_2_set_DESC: "$utility_tactical_directed_energy_manifold_1_set_DESC$."
  utility_tactical_directed_energy_manifold_3_set: "Energieverteilungskanal Mk III"
  utility_tactical_directed_energy_manifold_3_set_DESC: "$utility_tactical_directed_energy_manifold_1_set_DESC$"
-  ""
+
  tech_phase_modulator_1: "Phasenmodulator Mk I"
  tech_phase_modulator_1_desc: "Externe Phasenmodulatoren ermöglichen schnelle und kontinuierliche Feuerkreisläufe bei §GExtra Large§! Waffen, ziehen aber Energie von §RSmall§!"
  tech_phase_modulator_2: "Phasenmodulator Mk II"
  tech_phase_modulator_2_desc: "$tech_phase_modulator_1_desc$"
  tech_phase_modulator_3: "Phasenmodulator Mk III"
  tech_phase_modulator_3_desc: "$tech_phase_modulator_1_desc$ $tech_phase_modulator_1_desc$"
-  ""
+
  UTILITY_TACTICAL_PHASE_MODULATOR_1: "Phasenmodulator Mk I"
  UTILITY_TACTICAL_PHASE_MODULATOR_1_DESC: "Externe Phasenmodulatoren ermöglichen schnelle und kontinuierliche Feuerzyklen bei §GExtra Large§! Waffen, ziehen aber Energie von §RSmall§!"
  UTILITY_TACTICAL_PHASE_MODULATOR_2: "Phasenmodulator Mk II"
  UTILITY_TACTICAL_PHASE_MODULATOR_2_DESC: "$UTILITY_TACTICAL_PHASE_MODULATOR_1_DESC$"
  UTILITY_TACTICAL_PHASE_MODULATOR_3: "Phasenmodulator Mk III"
  UTILITY_TACTICAL_PHASE_MODULATOR_3_DESC: "$UTILITY_TACTICAL_PHASE_MODULATOR_1_DESC$"
-   ""
+ 
  utility_tactical_phase_modulator_1_set: "Phasenmodulator Mk I"
  utility_tactical_phase_modulator_1_set_DESC: "Externe Phasenmodulatoren ermöglichen schnelle und kontinuierliche Feuerzyklen bei §GExtra Large§! Waffen, ziehen aber Energie von §RSmall§!"
  utility_tactical_phase_modulator_2_set: "Phasenmodulator Mk II"
  utility_tactical_phase_modulator_2_set_DESC: "$utility_tactical_phase_modulator_1_set_DESC$"
  utility_tactical_phase_modulator_3_set: "Phasenmodulator Mk III"
  utility_tactical_phase_modulator_3_set_DESC: "$utility_tactical_phase_modulator_1_set_DESC$"
-  ""
+
  UTILITY_TACTICAL_TORPEDO_ACCELERATOR_1_tooltip: "$mod_torpedo_weapon_fire_rate_mult$: §G+$@utility_tactical_torpedo_accelerator_3_fire_rate|%1$§!\n$mod_torpedo_speed_mult$: §G+$@utility_tactical_torpedo_accelerator_3_speed|%1$§!"
  UTILITY_TACTICAL_TORPEDO_ACCELERATOR_2_tooltip: "$mod_torpedo_weapon_fire_rate_mult$: §G+$@utility_tactical_torpedo_accelerator_7_fire_rate|%1$§!\n$mod_torpedo_speed_mult$: §G+$@utility_tactical_torpedo_accelerator_7_speed|%1$§!"
  UTILITY_TACTICAL_TORPEDO_ACCELERATOR_3_tooltip: "$mod_torpedo_weapon_fire_rate_mult$: §G+$@utility_tactical_torpedo_accelerator_11_fire_rate|%1$§!\n$mod_torpedo_speed_mult$: §G+$@utility_tactical_torpedo_accelerator_11_speed|%1$§!"
-  ""
+
  UTILITY_TACTICAL_PREFIRE_CHAMBER_1_tooltip: "$mod_weapon_type_bolt_weapon_damage_mult$: §G+$@utility_tactical_prefire_chamber_3_bolt_damage|%1$§!\n$mod_weapon_type_pulse_cannon_weapon_damage_mult_display_only$: §G+$@utility_tactical_prefire_chamber_3_bolt_damage|%1$§!\n$mod_weapon_type_burst_weapon_damage_mult$: §G+$@utility_tactical_prefire_chamber_3_bolt_damage|%1$§!\n$mod_weapon_type_beam_weapon_damage_mult$: §R$@utility_tactical_prefire_chamber_3_beam_damage|%1$§!\n$mod_weapon_type_lance_weapon_damage_mult$: §R$@utility_tactical_prefire_chamber_3_beam_damage|%1$§!"
  UTILITY_TACTICAL_PREFIRE_CHAMBER_2_tooltip: "$mod_weapon_type_bolt_weapon_damage_mult$: §G+$@utility_tactical_prefire_chamber_7_bolt_damage|%1$§!\n$mod_weapon_type_pulse_cannon_weapon_damage_mult_display_only$: §G+$@utility_tactical_prefire_chamber_7_bolt_damage|%1$§!\n$mod_weapon_type_burst_weapon_damage_mult$: §G+$@utility_tactical_prefire_chamber_7_bolt_damage|%1$§!\n$mod_weapon_type_beam_weapon_damage_mult$: §R$@utility_tactical_prefire_chamber_7_beam_damage|%1$§!\n$mod_weapon_type_lance_weapon_damage_mult$: §R$@utility_tactical_prefire_chamber_7_beam_damage|%1$§!"
  UTILITY_TACTICAL_PREFIRE_CHAMBER_3_tooltip: "$mod_weapon_type_bolt_weapon_damage_mult$: §G+$@utility_tactical_prefire_chamber_11_bolt_damage|%1$§!\n$mod_weapon_type_pulse_cannon_weapon_damage_mult_display_only$: §G+$@utility_tactical_prefire_chamber_11_bolt_damage|%1$§!\n$mod_weapon_type_burst_weapon_damage_mult$: §G+$@utility_tactical_prefire_chamber_11_bolt_damage|%1$§!\n$mod_weapon_type_beam_weapon_damage_mult$: §R$@utility_tactical_prefire_chamber_11_beam_damage|%1$§!\n$mod_weapon_type_lance_weapon_damage_mult$: §R$@utility_tactical_prefire_chamber_11_beam_damage|%1$§!"
-  ""
+
  UTILITY_TACTICAL_DIRECTED_ENERGY_MANIFOLD_1_tooltip: "$mod_weapon_type_beam_weapon_fire_rate_mult$: §G+$@utility_tactical_directed_energy_manifold_3_beam_fire_rate|%1$§!\n$mod_weapon_type_lance_weapon_fire_rate_mult$: §G+$@utility_tactical_directed_energy_manifold_3_beam_fire_rate|%1$§!\n$mod_weapon_type_bolt_weapon_fire_rate_mult$: §R$@utility_tactical_directed_energy_manifold_3_bolt_fire_rate|%1$§!\n$mod_weapon_type_pulse_cannon_weapon_fire_rate_mult_display_only$: §R$@utility_tactical_directed_energy_manifold_3_bolt_fire_rate|%1$§!\n$mod_weapon_type_burst_weapon_fire_rate_mult$: §R$@utility_tactical_directed_energy_manifold_3_bolt_fire_rate|%1$§!"
  UTILITY_TACTICAL_DIRECTED_ENERGY_MANIFOLD_2_tooltip: "$mod_weapon_type_beam_weapon_fire_rate_mult$: §G+$@utility_tactical_directed_energy_manifold_7_beam_fire_rate|%1$§!\n$mod_weapon_type_lance_weapon_fire_rate_mult$: §G+$@utility_tactical_directed_energy_manifold_7_beam_fire_rate|%1$§!\n$mod_weapon_type_bolt_weapon_fire_rate_mult$: §R$@utility_tactical_directed_energy_manifold_7_bolt_fire_rate|%1$§!\n$mod_weapon_type_pulse_cannon_weapon_fire_rate_mult_display_only$: §R$@utility_tactical_directed_energy_manifold_7_bolt_fire_rate|%1$§!\n$mod_weapon_type_burst_weapon_fire_rate_mult$: §R$@utility_tactical_directed_energy_manifold_7_bolt_fire_rate|%1$§!"
  UTILITY_TACTICAL_DIRECTED_ENERGY_MANIFOLD_3_tooltip: "$mod_weapon_type_beam_weapon_fire_rate_mult$: §G+$@utility_tactical_directed_energy_manifold_11_beam_fire_rate|%1$§!\n$mod_weapon_type_lance_weapon_fire_rate_mult$: §G+$@utility_tactical_directed_energy_manifold_11_beam_fire_rate|%1$§!\n$mod_weapon_type_bolt_weapon_fire_rate_mult$: §R$@utility_tactical_directed_energy_manifold_11_bolt_fire_rate|%1$§!\n$mod_weapon_type_pulse_cannon_weapon_fire_rate_mult_display_only$: §R$@utility_tactical_directed_energy_manifold_11_bolt_fire_rate|%1$§!\n$mod_weapon_type_burst_weapon_fire_rate_mult$: §R$@utility_tactical_directed_energy_manifold_11_bolt_fire_rate|%1$§!"
-  ""
+
  UTILITY_TACTICAL_PHASE_MODULATOR_1_tooltip: "$mod_x_slot_weapon_fire_rate_mult$: §G+$@utility_tactical_phase_modulator_3_xl_fire_rate|%1$§!\n$mod_s_slot_weapon_fire_rate_mult$: §R$@utility_tactical_phase_modulator_3_s_fire_rate|%1$§!"
  UTILITY_TACTICAL_PHASE_MODULATOR_2_tooltip: "$mod_x_slot_weapon_fire_rate_mult$: §G+$@utility_tactical_phase_modulator_7_xl_fire_rate|%1$§!\n$mod_s_slot_weapon_fire_rate_mult$: §R$@utility_tactical_phase_modulator_7_s_fire_rate|%1$§!"
  UTILITY_TACTICAL_PHASE_MODULATOR_3_tooltip: "$mod_x_slot_weapon_fire_rate_mult$: §G+$@utility_tactical_phase_modulator_11_xl_fire_rate|%1$§!\n$mod_s_slot_weapon_fire_rate_mult$: §R$@utility_tactical_phase_modulator_11_s_fire_rate|%1$§!"
-  ""
-  ""
+
+
  mod_weapon_type_beam_weapon_damage_mult: "Strahlenschaden"
  mod_weapon_type_lance_weapon_damage_mult: "Lanzen-Schaden"
  mod_weapon_type_bolt_weapon_damage_mult: "Bolzen-Schaden"
@@ -41213,11 +41213,11 @@ l_german:
 
  tech_dyson_sphere_cleaning_fields_1: "Dyson-Sphären-Reinigungsfelder"
  tech_dyson_sphere_cleaning_fields_1_desc: "Wenn wir die von der Dyson-Sphäre verwendete Technologie zur Reinigung des sie umgebenden Raums von Trümmern adaptieren, könnten wir unsere eigenen Deep-Space-Strukturen besser instand halten."
-  ""
+
  tech_dyson_sphere_control_island_1: "Dyson Sphere Umweltkontrollsysteme"
  tech_dyson_sphere_control_island_1_desc: "Das Verständnis der Maschinerie, die die Umgebung der Dyson-Sphäre bewohnbar hält, könnte unseren Terraformern Zugang zu effizienteren Lösungen verschaffen."
 
-  ""
+
  tech_dyson_sphere_drone_factory_1: "Dyson Sphere Wartungsdrohnen"
  tech_dyson_sphere_drone_factory_1_desc: "Das Verständnis der Maschinen, die die Umwelt der Dyson Sphere bewohnbar halten, könnte unseren Terraformern den Zugang zu effizienteren Lösungen ermöglichen."
 
@@ -41229,7 +41229,7 @@ l_german:
  tech_dyson_sphere_cloning_facility_1_desc: "Die in der Dyson-Sphäre gefundenen Klonanlagen scheinen Techniken zu verwenden, die unseren eigenen weit voraus sind."
 
 
-  ""
+
 
  UTILITY_ENGINEERING_SIF_2_tooltip: "$MOD_SHIP_HULL_ADD$: §G+[GetSIF2ComponentHullAdd]§!"
  UTILITY_ENGINEERING_SIF_5_tooltip: "$MOD_SHIP_HULL_ADD$: §G+[GetSIF5ComponentHullAdd]§!"
@@ -41265,7 +41265,7 @@ l_german:
  d_dyson_sphere_ancient_library: "Antike Bibliothek"
  d_dyson_sphere_ancient_library_desc: "Diese Bibliothek ist ein Wissensspeicher von enormer Größe und eine wertvolle Quelle der Erkenntnis."
 
-  ""
+
 
  leader_trait_soulless_minions_of_orthodoxy_leader: "Spezialist für zellulare Unterhaltung"
  leader_trait_soulless_minions_of_orthodoxy_leader_desc: "Der Anführer ist ein selbsternannter Experte auf dem Gebiet der zellularen Unterhaltung."
@@ -41321,9 +41321,9 @@ l_german:
  red_matter_desc: "Rote Materie ist eine Substanz, die schwarze Löcher erzeugen kann. Sie kann nur durch die Verwendung großer Mengen Dilithium zur Synthese des seltenen Isotops Dekalithium hergestellt werden."
 
  ap_red_matter_synthesis: "Synthese der Roten Materie"
-  ""
+
  requires_polaron_or_tetryon_torpedo_9: "$TRIGGER_FAIL$Erfordert §H$tech_polaron_torpedo_9$§! oder §H$tech_tetryon_torpedo_9$§! erforscht"
-  ""
+
  tech_protomatter_generation_9: "Erzeugung von Protomaterie"
  tech_protomatter_generation_9_desc: "Eine spezielle Einrichtung auf der Sternenbasis kann sicher eine kleine Menge Protomaterie für militärische und zivile Anwendungen herstellen."
  tech_protomatter_warhead_10: "Protomaterie-Sprengköpfe"
@@ -41332,10 +41332,10 @@ l_german:
  tech_restorative_protomatter_fields_10_desc: "Protomaterie-Felder können, wenn sie gut ausbalanciert sind, nützliche Eigenschaften haben und die Regeneration von Hülle, Panzerung und Schilden verstärken."
  tech_protomatter_assisted_terraforming_10: "Protomaterie-unterstütztes Terraforming"
  tech_protomatter_assisted_terraforming_10_desc: "Die transformative Kraft der Protomaterie kann in kleinem Maßstab sicher genutzt werden, um die Effizienz unserer Terraforming-Bemühungen zu erhöhen."
-  ""
+
  tech_biogenic_protomorphosis_weapon_8: "Biogene Protomorphose-Waffen"
  tech_biogenic_protomorphosis_weapon_8_desc: "Eine auf synthetischen T-Zellen basierende biogene Waffe, die in der Lage ist, die gesamte Bevölkerung eines Planeten schnell in frühere Lebensformen ihrer jeweiligen Heimatwelten zu verwandeln."
-  ""
+
  tech_red_matter_device_1: "Rote-Materie-Gerät"
  tech_red_matter_device_1_desc: "Ein auf roter Materie basierendes Gerät, das auf der Oberfläche eines Planeten eingesetzt wird, erzeugt ein kurzlebiges schwarzes Loch, das die Planetenkruste und den Mantel zerstört, alles Leben auslöscht und die Welt dauerhaft unbewohnbar macht."
  tech_red_matter_capacitors_1: "Rote-Materie-Kondensatoren"
@@ -41344,50 +41344,50 @@ l_german:
  tech_red_matter_synthesis_facility_1_desc: "Wir benötigen eine speziell konstruierte Forschungsanlage, die mit den fortschrittlichen Werkzeugen und dem qualifizierten Personal ausgestattet ist, das für die Herstellung der Roten Materie erforderlich ist. \n\n§YDie Erforschung dieser Technologie und der Bau einer Anlage zur Synthese Roter Materie wird es uns ermöglichen, weitere Anwendungen der Roten Materie zu verfolgen.§!"
  tech_red_matter_synthesis_facility_2: "Weltraumgestützte Synthese Roter Materie"
  tech_red_matter_synthesis_facility_2_desc: "Wir benötigen eine speziell konstruierte Forschungsanlage, die mit den fortschrittlichen Werkzeugen und qualifiziertem Personal ausgestattet ist, die für die Produktion der Roten Materie erforderlich sind. \n\n§YDie Erforschung dieser Technologie und der Bau einer Anlage zur Synthese Roter Materie wird es uns ermöglichen, weitere Anwendungen der Roten Materie zu verfolgen.§!"
-  ""
+
  FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_PROTOMATTER_WARHEAD: "Vorbereitungen zur Vernichtung von $PLANET|Y$"
  MESSAGE_DESC_FOR_PLANET_KILLER_PROTOMATTER_WARHEAD: "wurde vernichtet durch"
  PLANET_KILLER_PROTOMATTER_WARHEAD_ACTION: "Protomaterie-Sprengkopf"
  PLANET_KILLER_PROTOMATTER_WARHEAD_DESC: "Ein Torpedo, der mit einem Protomaterie-Sprengkopf ausgestattet ist, der die gesamte Oberfläche eines Planeten schnell und gewaltsam umgestalten kann. Ob unbewohnt oder nicht."
  PLANET_KILLER_PROTOMATTER_WARHEAD: "Protomaterie-Sprengkopf"
-  ""
+
  FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_BIOGENIC_PROTOMORPHOSIS: "Vorbereiten der Rückentwicklung $PLANET|Y$"
  MESSAGE_DESC_FOR_PLANET_KILLER_BIOGENIC_PROTOMORPHOSIS: "wurde de-evolviert durch"
  PLANET_KILLER_BIOGENIC_PROTOMORPHOSIS_ACTION: "Biogene Protomorphose-Waffe"
  PLANET_KILLER_BIOGENIC_PROTOMORPHOSIS_DESC: "Eine synthetische biogene Waffe auf der Basis von T-Zellen, die in der Lage ist, die gesamte Bevölkerung eines Planeten schnell in frühere Lebensformen ihrer jeweiligen Heimatwelten zu verwandeln."
  PLANET_KILLER_BIOGENIC_PROTOMORPHOSIS: "Biogene Protomorphose-Waffe"
-  ""
+
  FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_RED_MATTER: "Vorbereitungen zur Zerstörung von $PLANET|Y$"
  MESSAGE_DESC_FOR_PLANET_KILLER_RED_MATTER: "wurde zerstört durch"
  PLANET_KILLER_RED_MATTER_ACTION: "Rote-Materie-Gerät"
  PLANET_KILLER_RED_MATTER_DESC: "Ein auf Roter Materie basierendes Gerät, das auf der Oberfläche eines Planeten eingesetzt wird, erzeugt ein kurzlebiges Schwarzes Loch, das die Planetenkruste und den Mantel zerstört, alles Leben auslöscht und die Welt dauerhaft unbewohnbar macht."
  PLANET_KILLER_RED_MATTER: "Rote-Materie-Gerät"
-  ""
+
  REQUIRED_DREADNOUGHT_UNIQUE_PROTOMATTER_FIELD_PROJECTOR_1_DESC: "Ein groß angelegter Protomaterie-Feldgenerator, der die Reparatur von Hüllen und Panzerung sowie die Regeneration von Schilden für befreundete Schiffe drastisch erhöht."
  REQUIRED_DREADNOUGHT_UNIQUE_PROTOMATTER_FIELD_PROJECTOR_1: "Protomateriefeld-Projektor"
  protomatter_field_10: "Protomaterie-Wiederherstellungsfeld"
-  ""
+
  UTILITY_SCIENCE_PROTOMATTER_MATRIX_INFUSER_1_DESC: "Dieses Gerät macht sich die Eigenschaften von Protomaterie zunutze, um die Leistung von Energiewaffen zu verstärken und eine lokale, regenerative Protomaterie-Matrix mit geringer Ausbeute zu erzeugen."
  UTILITY_SCIENCE_PROTOMATTER_MATRIX_INFUSER_1: "Protomaterie-Matrix-Infusor"
-  ""
+
  UTILITY_SCIENCE_RED_MATTER_CAPACITOR_1_DESC: "Dieses Gerät macht sich die exotischen Eigenschaften der Roten Materie zunutze, um bei kritischen Operationen eine zusätzliche Energieversorgung bereitzustellen, die die verfügbare Energie für Schilde, Triebwerke und Waffen effektiv erhöht."
  UTILITY_SCIENCE_RED_MATTER_CAPACITOR_1: "Rote-Materie-Kondensator"
-  ""
+
  building_red_matter_synthesis_facility: "Anlage zur Synthese roter Materie"
  building_red_matter_synthesis_facility_desc: "In dieser hochspezialisierten Forschungsstation führen unsere Wissenschaftler die äußerst gefährliche Arbeit der Herstellung von gefährlicher §RRoter Materie§! aus flüchtigem Dekalithium durch.\n\n§RDurch die Beschaffenheit der Roten Materie stellt dieses Gebäude eine ernste Gefahr für den Planeten dar.§!\n\n§BWir können nur Raumschiffskomponenten herstellen, die Rote Materie verwenden, solange diese Einrichtung in Betrieb ist.§!"
-  ""
+
  utility_protomatter_matrix_infuser_set: "Protomaterie-Matrix-Infusor"
  utility_protomatter_matrix_infuser_set_DESC: "Dieses Gerät macht sich die Eigenschaften der Protomaterie zunutze, um die Leistung von Energiewaffen zu verstärken und eine lokale, ertragsarme Protomaterie-Matrix zur Wiederherstellung zu erzeugen."
-  ""
+
  utility_red_matter_capacitor_set: "Rote-Materie-Kondensator"
  utility_red_matter_capacitor_set_DESC: "Dieses Gerät macht sich die exotischen Eigenschaften der Roten Materie zunutze, um bei kritischen Operationen eine zusätzliche Energieversorgung bereitzustellen, die die verfügbare Energie für Schilde, Triebwerke und Waffen effektiv erhöht."
-  ""
+
  sm_protomatter_generator: "Protomaterie-Generator"
  sm_protomatter_generator_desc: "Diese Einrichtung der Sternenbasis verbraucht große Mengen an Energie, um kleine Mengen an Protomaterie zu produzieren."
-  ""
+
  edict_protomatter_assisted_terraforming: "Protomaterie-unterstütztes Terraforming"
  edict_protomatter_assisted_terraforming_desc: "Die transformative Kraft der Protomaterie kann in kleinem Maßstab sicher genutzt werden, um die Effizienz unserer Terraforming-Bemühungen zu erhöhen."
-  ""
+
  requires_technology_any_warp_7: "$TRIGGER_FAIL$Benötigt Mk VII Warp-Antriebstechnologie"
  requires_ascension_perks_5: "$TRIGGER_FAIL$Erfordert fünf weitere Ascension Perks, die zuerst ausgewählt werden müssen"
 
@@ -41404,7 +41404,7 @@ l_german:
 
  STRING_RMG_latest_news: "RMG Letzte Nachrichten"
 
-  ""
+
 
  mod_country_red_matter_containment_strength: "Eindämmung der Roten Materie"
  tech_red_matter_containment_1: "Verbesserte Eindämmung der Roten Materie"
@@ -41427,17 +41427,17 @@ l_german:
  tech_borg_assimilator_2: "$borg_assimilator$ - $borg_assimilator_mid_2$ Überarbeitung"
  tech_borg_assimilator_unlock_title: "§HEntsperrt Schiffstyp:§! $borg_assimilator$"
 
-  ""
+
 
  ap_cryogenic_beam_weapons_desc: "Durch das Abfeuern eines konzentrierten Strahls negativ geladener Kineons, die in ein kryoplasmatisches Medium eingebettet sind, kann ein Zielplanet einer extremen Temperatursenkung unterworfen werden. Die lange Halbwertszeit der Kineons sorgt dafür, dass die Wirkung mehrere Jahrhunderte lang anhalten kann."
  ap_cryogenic_beam_weapons: "Kryogenische Strahlenwaffen"
 
  mod_country_cryoplasma_fabricators: "Kryoplasma-Fabriken"
  mod_ship_cryoplasma_components: "Kryoplasma-Komponenten"
-  ""
-  ""
 
-  ""
+
+
+
 
  dominion_formicidae: "Schwere Eskorte der Formicidae-Klasse"
  dominion_formicidae_plural: "Schwere Eskorten der Formicidae-Klasse"
@@ -41455,7 +41455,7 @@ l_german:
  add_random_negative_trait: "§H[This.GetName]§! erhält eine zufällige negative Eigenschaft"
  concept_clone_bank_desc: "Die §BClone Bank§!, die über die Registerkarte auf der Anführerseite zugänglich ist, bietet Optionen für Anführer, die zu Spezies mit der Eigenschaft Klonen gehören. \n\nVorlagen einzelner Anführer können erstellt und aktiviert werden. \nVorlagen können modifiziert werden, um die Fähigkeiten zu erhöhen, negative Eigenschaften zu entfernen oder freigeschaltete §MGenetische Gedächtnis-Eigenschaften§! hinzuzufügen."
  concept_clone_bank: "Klon-Bank"
-  ""
+
  fl_move_along_home: "Gehen Sie nach Hause"
  genetic_memory_trait: "§MGenetisches Gedächtnismerkmal§!"
  leader_trait_genetic_memory_diplomacy_desc: "[This.GetName] wurde mit den verfeinerten genetischen Erinnerungen zahlreicher [This.Species.GetName] Diplomaten ausgestattet."
@@ -41471,7 +41471,7 @@ l_german:
  leader_trait_genetic_memory_navigation_enable: "Schaltet die Eigenschaft §H$leader_trait_genetic_memory_navigation$§! für §B['concept_clone_bank']§!"
  leader_trait_genetic_memory_navigation: "Navigations-Engramme"
  mod_country_traffic_control_bonus: "$STNC_traffic_control_station$ Boni"
-  ""
+
  mod_megastructures_hyper_relay_cost_mult: "$STNC_traffic_control_station$ Kosten"
  mod_shipclass_science_ship_speed_mult: "Geschwindigkeit des Wissenschaftsschiffs"
  mod_shiptype_attack_wing_fire_rate_mult: "Angriffsflügel Feuerrate"
@@ -41573,7 +41573,7 @@ l_german:
  concept_leader_willpower_skill_desc: "Die Fähigkeit §BWillenskraft§! eines Anführers kann den Ausgang von Ereignissen, Projekten und anderen Interaktionen beeinflussen, die persönliche Stärke erfordern."
  concept_leader_willpower_skill: "Willenskraft Geschicklichkeit"
 
-  ""
+
  outcome_improved_with_archaeology_skill: "§BErgebnis verbessert mit ['concept_leader_archaeology_skill']§!"
  outcome_improved_with_art_skill: "§BErgebnis verbessert mit ['concept_leader_art_skill']§!"
  outcome_improved_with_combat_skill: "§BErgebnis verbessert mit ['concept_leader_combat_skill']§!"
@@ -41616,11 +41616,11 @@ l_german:
  tech_tetryon_torpedo_8: "Tetryon Torpedos Mk VIII"
  tech_tetryon_torpedo_9_desc: "$TETRYON_TORPEDO_DESC$ $TETRYON_TORPEDO_DESC$"
  tech_tetryon_torpedo_9: "Tetryon Torpedos Mk IX"
-  ""
+
  weapon_type_tetryon_torpedo: "§YTetryon Torpedo§!"
  mod_tetryon_torpedo_level: "Tetryon Torpedo Level"
  gateway_tetryon_weapons: "£science_ship£ §HTetryon-Waffen§!\n\n§EDieser Pfad schaltet fortgeschrittenere Arten von Tetryon-Waffen frei§!"
-  ""
+
  TETRYON_TORPEDO_1_DESC: "$TETRYON_TORPEDO_DESC$"
  TETRYON_TORPEDO_1: "Tetryon Torpedo Mk I"
  TETRYON_TORPEDO_10_DESC: "$TETRYON_TORPEDO_DESC$"
@@ -41666,7 +41666,7 @@ l_german:
  tech_tetryon_bombardment_2: "Tetryon Torpedo Barrage Mk II"
  tech_tetryon_bombardment_3_desc: "$PLANET_KILLER_TETRYON_BOMBARDMENT_3_DESC$ $PLANET_KILLER_TETRYON_BOMBARDMENT_3_DESC$ "
  tech_tetryon_bombardment_3: "Tetryon Torpedo-Sperrfeuer Mk III "
-  ""
+
 
  PLANET_KILLER_TETRYON_BOMBARDMENT_1_DESC: "Tetryon Torpedos, speziell entwickelt für maximalen planetaren Schaden. \n\nTetryon-Torpedos setzen hochinstabile subatomare Tetryon-Teilchen frei, die normalerweise nur im Subraum existieren können und im normalen Raum energetisch zerfallen. Die dabei entstehende Strahlung erschöpft Energieschilde und erodiert nicht abgeschirmte Materie, ist aber gegen schwere Panzerung unwirksam."
  PLANET_KILLER_TETRYON_BOMBARDMENT_1: "Tetryon Torpedo Barrage Mk I"
@@ -42057,7 +42057,7 @@ l_german:
  willie_mays_baseball_card_desc_details_human: "Willie Mays spielte in der Mitte des 20. Jahrhunderts für die New York Giants und später für die San Francisco Giants."
  willie_mays_baseball_card_desc_details_alien: "Es ist unklar, wofür der Gegenstand ursprünglich verwendet wurde, aber er scheint einen gewissen Wert für seine Schöpfer zu haben."
 
-  ""
+
 
  kurlan_naiskos: "Kurlan Naiskos"
  kurlan_naiskos_desc_short: "Eine Keramikfigur, die von der heute ausgestorbenen Kurlan-Zivilisation hergestellt wurde."
@@ -42080,7 +42080,7 @@ l_german:
  romulan_malem_plural: "Kreuzer der Malem-Klasse"
  romulan_malem_mid_1: "Malem"
  romulan_malem_mid_2: "Ar'Fesan"
-  ""
+
  tech_romulan_malem_1: "$romulan_malem$"
  tech_romulan_malem_unlock_title: "§HSchifftyp freischalten:§! $romulan_malem$"
  tech_romulan_malem_1_desc: "Die $romulan_malem$ ist mit zwei Punkt-, zwei kleinen und vier mittleren Energiewaffenstellungen und zwei Torpedowerfern ausgestattet."
@@ -42103,16 +42103,16 @@ l_german:
 
  planet_resistance_fighters: "Widerstandskämpfer"
  planet_strip_mine_toilers: "Arbeiter im Tagebau"
-  ""
+
  ap_legitimised_occupation: "Legitimierte Besatzung"
  ap_legitimised_occupation_desc: "Ein wahrer Sieg besteht darin, Ihrem Feind zu zeigen, dass es falsch war, sich Ihnen zu widersetzen."
  ap_legitimised_occupation_effect: "Schaltet §YBesatzungsrecht§ frei! Specialist Subject Type.\nEntsperrt §YZwangsbesetzung§! Kriegsziel.\nSchaltet §YBergbaukomplex§ frei! Overlord Holding.\nErhöht die Anzahl der Armeen, von denen Ihre §YOverlord Garrisons§! profitieren können."
-  ""
+
  specialist_occupation_authority: "Besatzungsmacht"
  preset_occupation_authority: "Besatzungsmacht"
  preset_occupation_authority_desc: "Für diejenigen, die nicht die Kraft haben, sich zu wehren, ist eine Besetzung mit begrenzter Selbstverwaltung einer direkten Eroberung vorzuziehen."
  preset_occupation_authority_flavor_desc: "Eine Besatzungsmacht wird von einer vom Overlord eingesetzten Marionettenregierung regiert und militärisch schwach, aber hochproduktiv gehalten. Was auch immer die Untertanen produzieren, ein Großteil ihrer Produktion wird umgeleitet, um das Wachstum des Oberherrn zu unterstützen. Sie werden vom Oberherrn vor anderen räuberischen Imperien geschützt. Anfangs mag das Geschäft fair erscheinen, aber mit der Zeit kippt das Ungleichgewicht immer mehr zu Gunsten des Oberherrn, bis die Untertanen schließlich kaum mehr als Sklaven sind."
-  ""
+
  occupation_authority_1_modifier: "Boni der Besatzungsmacht I"
  occupation_authority_1_penalties: "Strafen für Besatzungsmacht I"
  occupation_authority_1_puppet_government: "Marionettenregierung #Gut"
@@ -42130,12 +42130,12 @@ l_german:
  occupation_authority_3_iron_grip: "Eiserner Griff #Schlecht"
  occupation_authority_3_zero_tolerance: "Null-Toleranz #Schrecklich"
  occupation_authority_3_armed_resistance: "Bewaffneter Widerstand #Schrecklich"
-  ""
+
  war_goal_wg_forced_occupation: "Erzwungene Besatzung"
  war_goal_wg_forced_occupation_desc: "Der Krieg wird geführt, um den Feind als Besatzungsmacht zu unterwerfen.\n\nIm Falle eines Status Quo-Friedens werden die von uns besetzten Systeme als neue Besatzungsmacht freigegeben, wenn sie mindestens einen Planeten umfassen."
  casus_belli_cb_forced_occupation: "Unterwerfung"
-  ""
-  ""
+
+
 
  holding_garrison_armies_occupation_authority_desc: "Jede Overlord-Armee auf diesem Planeten gibt einen zusätzlichen §G-10%§! [Root.CrimeOrDeviancy], §G+0.5§! $r_loyalty$ und §R-5%§! Glück, bis zu einem Maximum von §G-30%§! [Root.CrimeOrDeviancy], (eine zusätzliche) §G+3.0§! $r_loyalty$ und §R-30%§! Glücklichsein."
 
@@ -42155,7 +42155,7 @@ l_german:
 
 
 
-  ""
+
 
  alliance_state: "Allianz-Staat"
  alliance_state_desc: "Ein Allianz-Staat ist eine supranationale Organisation, die über ein gewisses Maß an Souveränität verfügt, das ihr von ihren Mitgliedern gewährt wird."
@@ -42387,7 +42387,7 @@ l_german:
 
 
 
-  ""
+
 
  tech_elachi_qulash_1: "$elachi_qulash$"
  tech_elachi_qulash_1_desc: "Die $elachi_qulash$ ist mit einer großen Energiewaffenanlage und einem Torpedowerfer ausgestattet."
@@ -42516,13 +42516,13 @@ l_german:
 
 
 
-  ""
-  ""
+
+
  ap_protomatter_applications_desc: "Protomaterie ist bekanntlich eine höchst instabile und gefährliche Form von Materie, die sowohl die Kraft hat, etwas zu erschaffen als auch zu zerstören. Es ist an der Zeit, dass wir ihre Geheimnisse lüften."
  ap_protomatter_applications: "Anwendungen von Protomaterie"
  protomatter_desc: "Protomaterie ist bekanntlich eine höchst instabile und gefährliche Form von Materie, die sowohl erschaffen als auch zerstören kann."
  protomatter: "Protomaterie"
-  ""
+
  edict_protomatter_assisted_terraforming_desc: "Die transformative Kraft der Protomaterie kann in kleinem Maßstab sicher genutzt werden, um die Effizienz unserer Terraforming-Bemühungen zu erhöhen."
  edict_protomatter_assisted_terraforming: "Protomaterie-unterstütztes Terraforming"
  FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_PROTOMATTER_WARHEAD: "Vorbereitungen zur Vernichtung von $PLANET|Y$"
@@ -42736,7 +42736,7 @@ l_german:
 
  leader_cluster_outposts: "Cluster-Außenposten"
 
-  ""
+
 
  elachi_qulash_army: "$elachi_qulash$"
 
