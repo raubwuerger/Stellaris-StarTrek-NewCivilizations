@@ -38,7 +38,7 @@ l_german:
 
  MESSAGE_TYPE_KLINGON_COUNCIL_AVAILABLE_MESSAGE: "Der Hohe Rat kann nun wieder konsultiert werden."
  MESSAGE_TYPE_KLINGON_COUNCIL_AVAILABLE_TITLE: "Der Hohe Rat"
-  ""
+
  MESSAGE_TYPE_XINDI_COUNCIL_AVAILABLE_MESSAGE: "Der Rat kann nun wieder konsultiert werden."
  MESSAGE_TYPE_XINDI_COUNCIL_AVAILABLE_TITLE: "Der Rat"
 
@@ -67,7 +67,7 @@ l_german:
  MESSAGE_TYPE_UNION_ACCESSION_AVAILABLE_TITLE: "Beitrittsverhandlungen abgeschlossen"
  MESSAGE_TYPE_UNION_ACCESSION_AVAILABLE_MESSAGE: "Die Verhandlungen zwischen $JOINING|Y$ und $JOINER|Y$ sind abgeschlossen, und $JOINER|Y$ ist nun bereit für den Beitritt."
 
-  ""
+
  MESSAGE_TYPE_PROMISING_LEADER_MESSAGE: "$PROMISING_LEADER|Y$ hat außergewöhnliches Talent bewiesen. \n\nÜberprüfen Sie die Liste der Anführer-Kandidaten, um $PROMISING_LEADER|Y$ zu rekrutieren."
  MESSAGE_TYPE_PROMISING_ADMIRAL_MESSAGE: "Offizier $PROMISING_LEADER|Y$ hat während seiner Karriere außergewöhnliches Talent bewiesen und wurde für eine Beförderung empfohlen. \n\nPrüfen Sie die §Badmiral§! Kandidatenliste, um $PROMISING_LEADER|Y$ ein Kommando zu erteilen."
 
@@ -89,7 +89,7 @@ l_german:
  MESSAGE_TYPE_PROMISING_OFFICER_TITLE: "Vielversprechender Offizier"
  MESSAGE_TYPE_PROMISING_ADMINISTRATOR_MESSAGE: "Administrator $PROMISING_LEADER|Y$ hat während seiner Karriere außergewöhnliches Talent bewiesen und wurde für eine Beförderung empfohlen. \n\nPrüfen Sie die Liste der Kandidaten für Führungspositionen, um $PROMISING_LEADER|Y$ einen Posten zuzuweisen."
  MESSAGE_TYPE_PROMISING_ADMINISTRATOR_TITLE: "Vielversprechender Administrator"
-  ""
+
  MESSAGE_TYPE_ROMULAN_DRONE_EXPOSED_MESSAGE: "Unsere Bemühungen, die Beziehungen der $OFFENDED_COUNTRY|Y$ durch das Mimus-Projekt zu stören, wurden aufgedeckt."
  MESSAGE_TYPE_ROMULAN_DRONE_EXPOSED_TITLE: "Projekt Mimus aufgedeckt"
  MESSAGE_TYPE_SHIP_IN_STOCK_MESSAGE_amarie_cruiser: "§Y$PLANET$ Trading Station§! hat einen neuen Vorrat an §Y$amarie_cruiser_plural$§! erworben."
@@ -188,7 +188,7 @@ l_german:
  MESSAGE_TYPE_RETIRED_SHIP_MESSAGE_part_3: " der Flotte viele Jahre lang gute Dienste geleistet haben, sind die Kosten für den Unterhalt der Klasse inzwischen unerschwinglich geworden, da neuere Designs in Produktion gegangen sind."
 
  MESSAGE_TYPE_RETIRED_SHIP_TITLE: "Schiffsklasse im Ruhestand"
-  ""
+
  MESSAGE_TYPE_RETIRED_SHIP_MESSAGE_caitian_acris: "$MESSAGE_TYPE_RETIRED_SHIP_MESSAGE_part_1$$caitian_acris$$MESSAGE_TYPE_RETIRED_SHIP_MESSAGE_part_2$$caitian_acris_plural$$MESSAGE_TYPE_RETIRED_SHIP_MESSAGE_part_3$"
  MESSAGE_TYPE_RETIRED_SHIP_MESSAGE_axanari_dukta_toras: "$MESSAGE_TYPE_RETIRED_SHIP_MESSAGE_part_1$$axanari_dukta_toras$$MESSAGE_TYPE_RETIRED_SHIP_MESSAGE_part_2$$axanari_dukta_toras_plural$$MESSAGE_TYPE_RETIRED_SHIP_MESSAGE_part_3$"
  MESSAGE_TYPE_RETIRED_SHIP_MESSAGE_axanari_tunmeka: "$MESSAGE_TYPE_RETIRED_SHIP_MESSAGE_part_1$$axanari_tunmeka$$MESSAGE_TYPE_RETIRED_SHIP_MESSAGE_part_2$$axanari_tunmeka_plural$$MESSAGE_TYPE_RETIRED_SHIP_MESSAGE_part_3$"
@@ -1124,8 +1124,8 @@ l_german:
  MESSAGE_SUBJECT_LEVEL_UP_specialist_dominion_member_TITLE: "$MESSAGE_SUBJECT_LEVEL_UP_TITLE$"
  MESSAGE_SUBJECT_LEVEL_UP_specialist_great_house_TITLE: "$MESSAGE_SUBJECT_LEVEL_UP_TITLE$"
  MESSAGE_SUBJECT_LEVEL_UP_specialist_occupation_authority_TITLE: "$MESSAGE_SUBJECT_LEVEL_UP_TITLE$"
-  ""
-  ""
+  
+  
  MESSAGE_WE_LEVEL_UP_specialist_ufp_member_world_TITLE: "$MESSAGE_WE_LEVEL_UP_TITLE$"
  MESSAGE_WE_LEVEL_UP_specialist_isu_member_world_TITLE: "$MESSAGE_WE_LEVEL_UP_TITLE$"
  MESSAGE_WE_LEVEL_UP_specialist_dominion_member_TITLE: "$MESSAGE_WE_LEVEL_UP_TITLE$"
@@ -1378,7 +1378,7 @@ l_german:
  noonien_soong_catch_phrase: "Warum malt ein Maler? Warum boxt ein Boxer? Wissen Sie, was Michelangelo zu sagen pflegte? Dass die Skulpturen, die er schuf, schon da waren, bevor er begann, versteckt im Marmor."
  altan_soong_backstory: "§YDr. [This.GetName]§! ist ein [This.Species.GetName] Kybernetiker und selbsternannter 'verrückter Wissenschaftler'. Er widmet sich der Erforschung fortgeschrittener künstlicher Lebensformen und der Übertragung von Bewusstsein."
  altan_soong_catch_phrase: "Doktor Altan Inigo Soong, verrückter Wissenschaftler."
-  ""
+
  #Andorian ""
  vakel_shon_backstory: "Geboren 2363, §Y[This.GetName]§! ist ein [This.Species.GetName] Kommandant mit vielseitiger Erfahrung als taktischer Offizier, Forscher und Diplomat, dem zahlreiche Erstkontakte zugeschrieben werden. Obwohl er ein leidenschaftlicher Mensch ist, hat [This.GetSheHe] gelernt, Emotionen beiseite zu schieben, wenn es die Situation erfordert. Außerdem ist er ein geschickter Ushaan-Tor-Duellant."
  vakel_shon_catch_phrase: "Wir haben schon zu viel verloren. Wir können nicht noch mehr verlieren. Irgendwann müssen wir alle unsere Differenzen beiseite legen und uns vereinen."
@@ -1419,7 +1419,7 @@ l_german:
  solok_catch_phrase: "Sie versuchen, einen Triumph zu fabrizieren, wo keiner existiert."
  tlyn_backstory: "Der 2319 geborene §Y[This.GetName]§! ist für einen [This.Species.GetName] insofern ungewöhnlich, als [This.GetSheHe] zulässt, dass andere Faktoren als die Logik das [This.GetHerHis] Denken beeinflussen, sehr zum Unbehagen von [This.GetHerHis] [This.Species.GetName] Landsleuten, die [This.GetHerHis] für rücksichtslos unlogisch halten."
  tlyn_catch_phrase: "Statistisch gesehen haben Fähnriche, die unter kürzlich beförderten Kommandanten dienen, ein höheres Risiko, getötet und/oder verstümmelt zu werden."
-  ""
+  
  spock_backstory: "§Y[This.GetName]§! wurde 2230 als Sohn eines vulkanischen Vaters und einer menschlichen Mutter geboren. Zeigt die meisten vulkanischen physiologischen Merkmale und kontrolliert mit großer Anstrengung weitgehend die turbulenten Emotionen seiner menschlichen Seite. Besitzt einen unübertroffenen Intellekt und ein lebenslanges Interesse an Kunst, Literatur, Poesie, Musik und insbesondere an dreidimensionalem Schach."
  spock_catch_phrase: "Lebt lange und in Wohlstand."
 
@@ -1438,7 +1438,7 @@ l_german:
  michael_eddington_catch_phrase: "Was für mich zählt, ist, meinen Job zu machen. Alles andere ist eine Nachlässigkeit."
  christine_vale_backstory: "Geboren 2343, §Y[This.GetName]§! ist ein [This.Species.GetName] Commander und ehemaliger Detective in der zivilen Strafverfolgung. Er diente als Sicherheitsoffizier, bevor er zum Kommando wechselte. Bekannt dafür, häufig die Haarfarbe zu wechseln."
  christine_vale_catch_phrase: "Alles, was Sie tun können, ist Ihr Bestes zu geben. Kümmern Sie sich nicht um die kleinen Dinge."
-  ""
+  
  #Bajoran ""
  ro_laren_backstory: "Geboren 2340, §Y[This.GetName]§! ist ein [This.Species.GetName] Kommandant und Geheimdienstler. Er überlebte eine extrem schwierige Kindheit als Flüchtling, die [This.GetHerHis] Weltanschauung prägte. Steht oft in Konflikt mit Autoritäten."
  ro_laren_catch_phrase: "Ich möchte mich nicht länger für meine Herkunft schämen."
@@ -1453,15 +1453,15 @@ l_german:
  #KLINGON ""
  kruvang_backstory: "§YDr. [This.GetName]§! ist ein standhafter [This.Species.GetName]-Krieger und Genetiker. Er zeigt die typische [This.Species.GetName] Entschlossenheit, [This.GetHerHis] Feinde im Kampf zu besiegen oder, falls dies nicht gelingt, ehrenvoll zu sterben."
  kruvang_catch_phrase: "Ich werde nicht sterben, wenn meine Mission unvollendet bleibt!"
-  ""
+  
  #TELLARITE ""
  noum_backstory: "§YDr. [This.GetName]§! ist ein ruppiger [This.Species.GetName] Mediziner und Berater. Obwohl er sich nur langsam mit Neuankömmlingen anfreundet und wenig Zeit für unerprobte Nachwuchsoffiziere hat, ist §YDr. [This.GetName]§! denen gegenüber, die es verdient haben, äußerst loyal."
  noum_catch_phrase: "Als Ihr Arzt befehle ich Ihnen, diesen Kaffee zu trinken. Reißen Sie sich zusammen."
-  ""
+  
  #ANDORIAN ""
  deevad_tysess_backstory: "§Y[This.GetName]§! ist ein zuverlässiger [This.Species.GetName] Führungsoffizier. Er ist dafür bekannt, dass er individuellen Mut und flexible Taktiken an den Tag legt und das Leben der Menschen unter [This.GetHerHis] Kommando an erste Stelle setzt."
  deevad_tysess_catch_phrase: "Ich schwöre auf das Blut meiner Vorfahren an der Mauer der Helden."
-  ""
+  
  #DENOBULAN ""
  barniss_frex_backstory: "§Y[This.GetName]§! ist ein nervöser, aber intelligenter [This.Species.GetName] Wissenschaftsoffizier und Kommunikationsspezialist. Er ist dafür bekannt, dass er etwas übertreibt, wenn er anderen von [This.GetHerHis] Heldentaten erzählt."
  barniss_frex_catch_phrase: "Oh je, schickt man mich an einen noch schlimmeren Ort?"
@@ -1492,7 +1492,7 @@ l_german:
 
  joseph_mbenga_backstory: "Geboren 2223, §YDoktor [This.GetName]§! ist ein [This.Species.GetName] Arzt, ehemaliger Special Forces Agent und Überlebender einer großen persönlichen Tragödie. Er verfügt über ein breites Spektrum an Fähigkeiten, sowohl in militärischen als auch in wissenschaftlichen Disziplinen."
  joseph_mbenga_catch_phrase: "Ich rette lieber Leben als es zu nehmen."
-  ""
+  
  dakrah_backstory: "§Y[This.GetName]§!, Sohn von Ra'Ul, ist ein besonders rücksichtsloser [This.Species.GetName] Krieger und Kommandant. Er ist bereit, im Streben nach dem Sieg Gräueltaten zu begehen, und [This.GetSheHe] betrachtet das Leben von Nichtkombattanten als wertlos."
  dakrah_catch_phrase: "Mein Vater hielt mich für Krieg und Blutvergießen."
 
@@ -1523,10 +1523,12 @@ l_german:
  agimus_catch_phrase: "Wer wagt es, AGIMUS zu verhöhnen?!"
  agimus_backstory: "AGIMUS, eine maschinelle Intelligenz unbekannter Herkunft, ist manipulativ, aber hochqualifiziert."
 
-  ""
+  
  dvana_tendi_backstory: "§Y[This.GetName]§!, §YHerrin der Winterkonstellationen§!, §YSpitze der mondhellen Klinge§! ist eine erfahrene [This.Species.GetName] Piratin, Attentäterin... und Wissenschaftlerin. Eifrig dabei, die Stereotypen über [This.GetHerHis] Menschen zu widerlegen, trotz [This.GetHerHis] eigener Herkunft."
  dvana_tendi_catch_phrase: "Manchmal, wenn ich sage, dass ich auf die Toilette gehe, kodiere ich in Wirklichkeit ihre DNA neu."
 
 
  norah_satie_backstory: "Tochter eines renommierten Richters, §Y[This.GetName]§! sehen viele [This.GetHerHim] als unerschütterlich und entschlossen, während andere [This.GetHerHim] lediglich als stur ansehen."
  norah_satie_catch_phrase: "Tun Sie, was Sie tun müssen... und das werde ich auch."
+
+ MESSAGE_TYPE_RETIRED_SHIP_MESSAGE_ferengi_nandi: "$MESSAGE_TYPE_RETIRED_SHIP_MESSAGE_part_1$$ferengi_nandi$$MESSAGE_TYPE_RETIRED_SHIP_MESSAGE_part_2$$ferengi_nandi_plural$$MESSAGE_TYPE_RETIRED_SHIP_MESSAGE_part_3$"

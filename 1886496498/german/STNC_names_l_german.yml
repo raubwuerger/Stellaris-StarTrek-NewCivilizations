@@ -3454,3 +3454,6 @@ l_german:
  NAME_Prev: "[Prev.GetName]"
 
  string_mycelial_network: "Myzelartiges Netzwerk"
+ 
+ NAME_Prototaxites_Stellaviatori_Nursery_Name: "[This.GetMycelialRandomLocationTypeA] [This.system_num] [This.system_num_b] [This.GetMycelialRandomLocationTypeB] Prototaxites Stellaviatori Nursery"
+
