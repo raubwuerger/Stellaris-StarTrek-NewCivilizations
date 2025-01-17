@@ -1,4 +1,4 @@
-l_german:
+﻿l_german:
 
  #concept_singularity_collapse_damage_modifier_desc: "Baryon Sweeps können den Unterhalt von Raumschiffen bis zu einem Maximalwert reduzieren, mit einem Basiswert von §G10%§! \n\nDas Verhältnis von £navy_size£ zu £baryon_sweep_naval_cap£ bestimmt, wie viel von der Unterhaltsreduzierung angewendet wird. \n\nModifikatoren aus Technologien oder anderen Quellen können die maximale Unterhaltssenkung über 10% hinaus erhöhen."
  #distinctiveness_crisis_level_desc: "Um durch die Krisenstufen aufzusteigen, sammeln Sie Unterscheidungskraft und erforschen die speziellen Krisentechnologien"
