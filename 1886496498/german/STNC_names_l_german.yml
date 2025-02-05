@@ -3457,3 +3457,8 @@
  
  NAME_Prototaxites_Stellaviatori_Nursery_Name: "[This.GetMycelialRandomLocationTypeA] [This.system_num] [This.system_num_b] [This.GetMycelialRandomLocationTypeB] Prototaxites Stellaviatori Nursery"
 
+NAME_Prototaxites_Stellaviatori_Nursery_Name:	"[This.GetMycelialRandomLocationTypeA] [This.system_num] [This.system_num_b] [This.GetMycelialRandomLocationTypeB] Prototaxites Stellaviatori Nursery"
+format.lukari_concordium:	"Lukari Konkordium"
+NAME_memory_outpost:	"Gedächtnis [This.GetMemoryOutpost]"
+NAME_Elias_Giger:	"Elias Giger"
+NAME_Kentar_Dig:	"Kentar Graben"
