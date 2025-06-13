@@ -11881,7 +11881,7 @@ STNC_galactic_features.3512.desc.independent_skoll_deal:	"    §YDie Schaltplän
 STNC_galactic_features.3512.desc.isokinetic_tech_deal:	"    §YIsokinetische Waffenschemata für 2,000 £latinum£§! \n"
 STNC_galactic_features.3512.desc.kahless_fornication_helmet_deal:	"    §YKahless' Unzucht-Helm für 2,500 £latinum£§! \n"
 STNC_galactic_features.3512.desc.kelvin_enterprise_deal:	"    §YInformationen von Interesse für 2,000 £latinum£§! \n"
-STNC_galactic_features.3512.desc.kurlan_naiskos_deal:	"    §Y$kurlan_naiskos$ für $@specimen_cost_epic|#0$ £latinum£§! \n"
+STNC_galactic_features.3512.desc.kurlan_naiskos_deal:	"    §Y$kurlan_naiskos$ für $@specimen_cost_epic|
 STNC_galactic_features.3512.desc.le_troska_deal:	"    §YInformationen von archäologischem Interesse für 1.200 £latinum£§! \n"
 STNC_galactic_features.3512.desc.menthar_outpost_deal:	"    §YInformationen von archäologischem Interesse für 1.000 £latinum£§! \n"
 STNC_galactic_features.3512.desc.merculite_tech_deal:	"    §YSchematische Darstellungen von Raketenwaffen für 1.000 £latinum£§! \n"
@@ -11895,10 +11895,10 @@ STNC_galactic_features.3512.desc.rules_of_acquisition_deal:	"    §YErste Editio
 STNC_galactic_features.3512.desc.stone_of_gol_deal:	"    §YInformationen von Interesse für 1,100 £latinum£§! \n"
 STNC_galactic_features.3512.desc.submanifold_casting_stone_deal:	"    §YUnterverteilter Gussstein für 1,500 £latinum£§! \n"
 STNC_galactic_features.3512.desc.tachyon_tech_deal:	"    §YTachyon Agitator Waffenschemata für 2,000 £latinum£§! \n"
-STNC_galactic_features.3512.desc.varon_t_disruptor_deal:	"    §Y$varon_t_disruptor$ für $@specimen_cost_epic|#0$ £latinum£§! \n"
+STNC_galactic_features.3512.desc.varon_t_disruptor_deal:	"    §Y$varon_t_disruptor$ für $@specimen_cost_epic|
 STNC_galactic_features.3512.desc.varon_tech_deal:	"    §YVaron Disruptor Waffenschemata für 1,500 £latinum£§! \n"
-STNC_galactic_features.3512.desc.veltan_lust_idol_deal:	"    §Y$velta_lust_idol$ für $@specimen_cost_rare|#0$ £latinum£§! \n"
-STNC_galactic_features.3512.desc.willie_mays_baseball_card_deal:	"    §Y$willie_mays_baseball_card$ für $@specimen_cost_common|#0$ £latinum£§! \n"
+STNC_galactic_features.3512.desc.veltan_lust_idol_deal:	"    §Y$velta_lust_idol$ für $@specimen_cost_rare|
+STNC_galactic_features.3512.desc.willie_mays_baseball_card_deal:	"    §Y$willie_mays_baseball_card$ für $@specimen_cost_common|
 STNC_galactic_features.3512.desc.yridian_inquirer_deal:	"    §YDie Schaltpläne der $yridian_inquirer$ für 2.000 £latinum£§! \n"
 STNC_galactic_features.3512.devils_heart:	"Kaufen Sie Informationen von archäologischem Interesse."
 STNC_galactic_features.3512.devils_heart.response:	"Ich werde das Latinum an meine Kontaktperson weiterleiten, die Ihnen die Informationen in Kürze zur Verfügung stellen wird."
@@ -18291,7 +18291,7 @@ STNC_talaxian_flavour.1.name:	"Das verlorene Gleichnis von Jirex"
 STNC_tamarian_flavour.1.a:	"Finanzieren Sie die Studie."
 STNC_tamarian_flavour.1.b:	"Dies ist keine Priorität."
 STNC_tamarian_flavour.1.desc:	"Die vorherrschende tamarianische Sprache scheint fast ausschließlich auf Allegorien zu basieren, die sich auf mythologische und historische Personen und Ereignisse ihrer Kultur beziehen. Unsere Universalübersetzer sind nicht in der Lage, den Kontext ihrer Kommunikation zu entschlüsseln, so dass wir ein umfangreiches Studium ihrer Kultur benötigen, um sie zu verstehen."
-STNC_tamarian_flavour.1.f:	"§RInsufficient Influence: #Finanzieren Sie die Studie."
+STNC_tamarian_flavour.1.f:	"§RInsufficient Influence: 
 STNC_tamarian_flavour.1.name:	"Kinder von Tama"
 STNC_tamarian_flavour.2.a:	"Ausgezeichnet."
 STNC_tamarian_flavour.2.desc:	"Ein Team von [Root.GetSpeciesName] Linguisten hat bedeutende Fortschritte beim Verständnis der tamarianischen Sprache gemacht. \n\nUnsere Universalübersetzer wurden mit einem idiomatischen Übersetzungsmodul aktualisiert, um die Bedeutung hinter ihrer Sprache zu vermitteln."
