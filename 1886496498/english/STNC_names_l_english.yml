@@ -815,7 +815,7 @@
  NAME_Baku_Harmony_Adjective: "Ba'ku"
  NAME_baryon_sweep_array: "[This.Planet.GetName] Array"
  NAME_fusion_array: "[This.Planet.GetName] Power Array"
- NAME_Barzan_Planetary_Republic: "Barzan Planetary Republic"
+ NAME_Barzan_Planetary_Republic: "Barzanian Planetary Republic"
  NAME_Baul_High_Council_Adjective: "Ba'ul"
  NAME_Beach_Head_Alpha: "Beach Head Alpha"
  NAME_Benzarian_Commonwealth_Adjective: "Benzite"
@@ -900,6 +900,7 @@
  NAME_Deep_Space: "Deep Space"
  NAME_Defecting_House_Militia: "[defecting_house.GetName] Militia"
  NAME_Delphic_Expanse: "Delphic Expanse"
+ NAME_Brechtian_Cluster: "Brechtian Cluster"
  NAME_Delta_Volanis_Cluster: "Delta Volanis Cluster"
  NAME_Deltan_Union_Adjective: "Deltan"
  NAME_deltan_union: "Deltan Union"
@@ -1014,8 +1015,8 @@
  NAME_Hirogen_Venatic: "Venatic"
  NAME_hospital_ship: "Hospital Ship"
  NAME_House_Fleet_Yard: "[This.Owner.GetName] Shipyard"
- NAME_House_Of_Leader: "House of [event_target:factionLeader.GetName]"
- NAME_House_Leader_Surname: "House [event_target:factionLeader.GetSecondName]"
+ NAME_House_Of_Leader: "House of [From.GetName]"
+ NAME_House_Leader_Surname: "House [From.GetSecondName]"
  NAME_Hromi_Cluster: "Hromi Cluster"
  NAME_Human_Defence_Fleet: "Human Defence Fleet"
  NAME_Human_Defence_Fleet: "Human Defence Fleet"
@@ -1159,6 +1160,7 @@
  NAME_NRGC_Random: "NRGC [This.system_num]"
 
  NAME_Mycelial_Random_Location: "[This.GetMycelialRandomLocationTypeA] [This.system_num] [This.system_num_b] [This.GetMycelialRandomLocationTypeB]"
+ NAME_Prototaxites_Stellaviatori_Nursery_Name: "[This.GetMycelialRandomLocationTypeA] [This.system_num] [This.system_num_b] [This.GetMycelialRandomLocationTypeB] Prototaxites Stellaviatori Nursery"
  NAME_Tethos: "Tethos"
  NAME_Zerokos: "Zerokos"
  NAME_Nyxkos: "Nyxkos"
@@ -2628,7 +2630,7 @@
  NAME_wadi_emirates: "Wadi Emirates"
  NAME_Xepolite_Guilds_Adjective: "Xepolite"
  NAME_xepolite_guilds: "Xepolite Guilds"
- NAME_Xindi_Annulifera: "Anullifera Class Frigate"
+ NAME_Xindi_Annulifera: "Annulifera Class Frigate"
  NAME_Xindi_Ateleth: "Ateleth Class Heavy Cruiser"
  NAME_Xindi_Castroi: "Castroi Class Scout"
  NAME_Xindi_Council_Adjective: "Xindi"
@@ -3454,3 +3456,28 @@
  NAME_Prev: "[Prev.GetName]"
 
  string_mycelial_network: "Mycelial Network"
+
+ format.lukari_concordium: "Lukari Concordium"
+
+ NAME_memory_outpost: "Memory [This.GetMemoryOutpost]"
+
+ NAME_Elias_Giger: "Elias Giger"
+
+ NAME_Kentar_Dig: "Kentar Dig"
+
+ NAME_Sexagus: "Sexagus"
+ NAME_Spheronius: "Spheronius"
+
+ NAME_Photonic_Mega_Orb: "Photonic Mega-Orb"
+ NAME_Photonic_Mega_Cube: "Photonic Mega-Cube"
+ NAME_Photonic_Orbs: "Photonic Orbs"
+ NAME_Photonic_Cubes: "Photonic Cubes"
+
+ NAME_Veraflex_Nebula_Embassy_Name: "Veraflex Nebula Embassy"
+ NAME_Photonic_Mega_Entity: "Photonic Mega-Entity"
+
+ NAME_James_Moriarty: "James Moriarty"
+ NAME_Orbit_Former_Ring: "[Orbit.GetName] Former Ring"
+
+ NAME_Smiths_Sun: "Smith's Sun"
+ NAME_Felix_Knightly: "Felix Knightly"
