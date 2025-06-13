@@ -10216,10 +10216,6 @@
  job_borg_dilithium_mining_drone_desc: "Bergleute, die darauf spezialisiert sind, seltene Kristalle sorgfältig aus geologischen Formationen zu gewinnen und zu veredeln."
  job_borg_dilithium_mining_drone_plural: "Dilithium-Bergbau-Drohnen"
  job_borg_dilithium_mining_drone: "Dilithium-Bergbau-Drohne"
- job_borg_engineering_drone_desc: "Spezialisierte Ingenieursdrohnen kombinieren Grundstoffe mit hoher Effizienz zu Raumschiffkomponenten."
- job_borg_engineering_drone_effect_desc: "£job_engineer£ $job_borg_engineering_drone_plural$ produzieren £components£ §YComponents§!"
- job_borg_engineering_drone_plural: "Ingenieur-Drohnen"
- job_borg_engineering_drone: "Ingenieursdrohne"
  job_borg_evaluator_drone_desc: "Signale zu und von den vielen Knotenpunkten des Kollektivs müssen verstärkt, verstärkt und von statischen Störungen und Datenverfälschungen befreit werden."
  job_borg_evaluator_drone_effect_desc: "£job_evaluator£ $job_borg_evaluator_drone_plural$ produzieren £unity£ §Y$unity$§!"
  job_borg_evaluator_drone_plural: "Auswerter-Drohnen"
@@ -10269,14 +10265,6 @@
  job_reanimator_desc: "Reanimatoren sind in der Lage, die Verwandlung von toten Mitgliedern anderer Spezies in ihre eigene zu ermöglichen."
  job_reanimator_effect_desc: "£job_reanimator£ $job_reanimator_plural$ produzieren £society_research£ §YGesellschaftsforschung§!."
 
- job_engineer_desc: "Ingenieure sind für die Herstellung der fortschrittlichen Komponenten verantwortlich, die für den Betrieb moderner Technologien erforderlich sind."
- job_engineer_effect_desc: "£job_engineer£ $job_engineer_plural$ produzieren £components£ §Y$components$§!."
- job_engineer_plural: "Ingenieure"
- job_engineer: "Ingenieur"
- job_engineering_drone_desc: "Die verschiedenen Komponenten und Ausrüstungsgegenstände, die für den Betrieb eines Imperiums benötigt werden, erfordern eine spezielle Ausbildung und spezielle Werkzeuge für ihre Herstellung."
- job_engineering_drone_effect_desc: "£job_engineer£ $job_engineering_drone_plural$ produzieren £components£ §Y$components$§!."
- job_engineering_drone_plural: "Ingenieurs-Drohnen"
- job_engineering_drone: "Ingenieursdrohne"
  job_entertainer_plural_with_icon: "£job_entertainer£ $job_entertainer_plural$"
  job_evaluator_desc: "Auswerter verarbeiten aufgezeichnete quasi-kulturelle Daten für den semantischen Nutzen."
  job_evaluator_effect_desc: "£job_evaluator£ $job_evaluator_plural$ produzieren £unity£ §Y$unity$§!"
@@ -10325,10 +10313,6 @@
  job_penal_labourer_desc: "Gefangene, die ihre Schuld gegenüber der Gesellschaft durch Arbeit im Bergbau und in Industrieanlagen begleichen."
  job_penal_labourer_plural: "Strafarbeitskräfte"
  job_penal_labourer: "Strafarbeiter"
- job_preacher_desc: "$job_preacher_plural$ widmen ihr Leben der Förderung und Unterstützung der spirituellen Überzeugungen ihrer Kultur. Viele sind in der handwerklichen Produktion tätig, um ihren Orden zu unterstützen."
- job_preacher_effect_desc: "£job_preacher£ $job_preacher_plural$ produzieren £unity£ §Y$unity$§!, £consumer_goods£ §Y$consumer_goods$§! und £mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§!"
- job_preacher_plural: "Mönche"
- job_preacher: "Mönch"
  job_prey_desc: "Gefühlsbetonte Beutetiere, die für Sport und Nahrung gejagt werden, gelten als die gefährlichsten und daher lohnendsten."
  job_prey_plural: "Beute"
  job_prey: "Beute"
@@ -11298,7 +11282,6 @@
  kzinti_auratai_mid_3: "Canadensir"
  kzinti_auratai_plural: "Schlachtkreuzer der Auratai-Klasse"
  kzinti_auratai: "Schlachtkreuzer der Auratai-Klasse"
- kzinti_bietir_mid_sci_1: "Bietir"
  kzinti_bietir_plural: "Vermessungsschiffe der Bietir-Klasse"
  kzinti_bietir: "Vermessungsschiff der Bietir-Klasse"
  kzinti_chausr_mid_1: "Chausr"
@@ -14240,7 +14223,6 @@
  mod_building_collector_water_1_max: "Max $building_collector_water_1$"
  mod_building_coporate_palace_1_ferengi_max: "Max Heiliger Marktplatz"
  mod_building_cultural_cost_mult: "Kulturelle Gebäudekosten"
- mod_building_dilithium_mine_1_max: "Max Dilithium-Minen"
  mod_building_energy_construction_speed_mult: "Baugeschwindigkeit für Energieanlagen"
  mod_building_energy_cost_mult: "Kosten für Energiegebäude"
  mod_building_energy_cost_mult: "Baukosten für Energieanlagen"
@@ -14249,7 +14231,6 @@
  mod_building_high_command_1_max: "Max Detapa Ratskammern"
  mod_building_housing_cost_mult: "Baukosten für Wohngebäude"
  mod_building_javonite_jewellery_1_max: "Max Jevonite Kunsthandwerker"
- mod_building_ketracel_white_refinery_1_max: "Max $building_ketracel_white_refinery_1$"
  mod_building_lab_engineering_1_max: "Max $building_lab_engineering_1$"
  mod_building_lab_physics_1_max: "Max $building_lab_physics_1$"
  mod_building_lab_society_1_max: "Max $building_lab_society_1$"
@@ -14466,9 +14447,6 @@
  mod_job_borg_dilithium_mining_drone_add: "$job_borg_dilithium_mining_drone$ Jobs"
  mod_job_borg_dilithium_mining_drone_per_pop_short: "\n§G+1§! £mod_job_borg_dilithium_mining_drone_add£ pro $VALUE$ £pop£"
  mod_job_borg_dilithium_mining_drone_per_pop: "§G+1§! $job_borg_dilithium_mining_drone$ Job pro $VALUE$ Pops"
- mod_job_borg_engineering_drone_add: "$job_borg_engineering_drone$ Jobs"
- mod_job_borg_engineering_drone_per_pop_short: "\n§G+1§! £mod_job_borg_engineering_drone_add£ pro $VALUE$ £pop£"
- mod_job_borg_engineering_drone_per_pop: "§G+1§! $job_borg_engineering_drone$ Job pro $VALUE$ Pops"
  mod_job_borg_evaluator_drone_add: "$job_borg_evaluator_drone$ Jobs"
  mod_job_borg_evaluator_drone_per_pop_short: "\n§G+1§! £mod_job_borg_evaluator_drone_add£ pro $VALUE$ £pop£"
  mod_job_borg_evaluator_drone_per_pop: "§G+1§! $job_borg_evaluator_drone$ Job pro $VALUE$ Pops"
@@ -14497,8 +14475,6 @@
  mod_job_borg_primary_adjunct_drone_per_pop_short: "\n§G+1§! £mod_job_borg_primary_adjunct_drone_add£ pro $VALUE$ £pop£"
  mod_job_borg_primary_adjunct_drone_per_pop: "§G+1§! $job_borg_primary_adjunct_drone$ Job pro $VALUE$ Pops"
  mod_job_deactivated_photonic_add: "$job_deactivated_photonic$ Jobs"
- mod_job_engineer_add: "$job_engineer$ Jobs"
- mod_job_engineering_drone_add: "$job_engineering_drone$ Jobs"
  mod_job_evaluator_add: "$job_evaluator$ Jobs"
  mod_job_evaluator_per_pop_short: "\n§G+1§! £mod_job_evaluator_add£ pro $VALUE$ £pop£"
  mod_job_evaluator_per_pop: "§G+1§! $job_evaluator$ Job pro $VALUE$ Pops"
@@ -14696,14 +14672,6 @@
  mod_planet_enforcers_unity_produces_add: "$job_enforcer$ £unity£ Einheitsleistung"
 
  mod_planet_miners_dilithium_produces_add: "£dilithium£ $dilithium$ von £job_miner£ $job_miner$"
- mod_planet_engineers_components_produces_add: "£components£ $components$ von £job_engineer£ [GetEngineerJobNamePlural]"
- mod_planet_engineers_components_produces_mult: "£components£ $components$ von £job_engineer£ [GetEngineerJobNamePlural]"
- mod_planet_engineers_energy_upkeep_add: "£energy£ $energy$ Unterhalt von £job_engineer£ [GetEngineerJobNamePlural]"
- mod_planet_engineers_food_upkeep_add: "£food£ $food$ Unterhalt von £job_engineer£ [GetEngineerJobNamePlural] "
- mod_planet_engineers_minerals_upkeep_add: "£minerals£ $minerals$ Unterhalt von £job_engineer£ [GetEngineerJobNamePlural]"
- mod_planet_engineers_minerals_upkeep_mult: "£minerals£ $minerals$ Unterhalt von £job_engineer£ [GetEngineerJobNamePlural]"
- mod_planet_engineers_produces_mult: "£job_engineer£ [GetEngineerJobName] Ausgabe"
- mod_planet_engineers_upkeep_mult: "[GetEngineerJobName] Unterhalt"
  mod_planet_entertainers_unity_produces_add: "$job_entertainer$ £unity£ Einheitliche Ausgabe"
  mod_planet_historians_produces_mult: "$job_historian$ Ausgabe"
  mod_planet_historians_unity_produces_add: "$job_historian$ £unity£ Einheitliche Leistung"
@@ -17001,7 +16969,6 @@
  planet_dilithium_miners: "Dilithium-Bergmann Jobs"
  planet_districts_cities: "Stadtbezirke"
  planet_districts_industrial: "Industrielle Bezirke"
- planet_engineers: "Ingenieur Jobs"
  planet_food_boost_borg: "Nährstoff-Overdrive"
  planet_historians: "Historiker Jobs"
  planet_jobs_complex_drone: "Komplexe Drohne"
@@ -21678,7 +21645,7 @@
  requires_fleet_with_leader_in_orbit: "$TRIGGER_FAIL$Erfordert eine Flotte mit einem Anführer im Orbit"
  requires_fluidic_weapons_7: "$TRIGGER_FAIL$Erfordert entweder §H$tech_fluidic_beam_7$§! oder §H$tech_fludic_bolt_7$§! geforscht"
  requires_food: "§RErfordert £Lebensmittel §YLebensmitteldepot§! auf der Kachel§!"
- requires_free_tradition_tree: "$TRIGGER_FAIL$Erfordert einen leeren Traditionsbaumplatz. #TEMP später entfernen"
+ requires_free_tradition_tree: "$TRIGGER_FAIL$Erfordert einen leeren Traditionsbaumplatz. 
  requires_great_plume: "§HKann nur im Agosoria-System§ gebaut werden!"
  REQUIRES_H_CLASS_COLONY_TECH: "Benötigt $tech_h_class_colonisation$ Technologie"
  requires_helix_ops_1: "§RErfordert mindestens einen £Bau §YStation Hub II§! auf der Station!"
@@ -22031,7 +21998,7 @@
  ROM_hand: "Hand"
  ROM_HOSTILE_DOW_ACCEPT_01: "Das Volk [From.GetSpeciesName] täte gut daran, sich an diesen Tag zu erinnern. Er markiert den ersten Tag ihrer Niederlage durch die [Root.GetName].\n\nDie Schreie ihrer versklavten Familien werden eine ewige Mahnung sein, sich nicht mit den [Root.GetName] anzulegen."
  ROM_HOSTILE_DOW_ACCEPT_SS_01: "Das rebellische Volk der [From.GetSpeciesName] sollte sich diesen Tag gut merken. Es markiert den ersten Tag ihrer Niederlage durch die [Root.GetName].\n\nDie Schreie ihrer versklavten Familien werden eine ewige Mahnung sein, sich nicht mit den [Root.GetName] anzulegen."
- ROM_HOSTILE_GREETING_01: "Die [Root.GetName] werden euch jetzt hören, [From.GetSpeciesName]. #100% funktioniert"
+ ROM_HOSTILE_GREETING_01: "Die [Root.GetName] werden euch jetzt hören, [From.GetSpeciesName]. 
  ROM_HOSTILE_GREETING_SS_01: "Die [Root.GetName] werden euch jetzt hören, [From.GetSpeciesName]."
  ROM_insult_01: "$humanoid_insult$"
  ROM_insult_plural_01: "$humanoid_insult_plural$"
@@ -25604,10 +25571,10 @@
  tech_aceton_assimilator_7: "Aceton-Assimilator-Felder II"
  tech_aceton_assimilator_9_desc: "$tech_aceton_assimilator_5_desc$"
  tech_aceton_assimilator_9: "Aceton-Assimilator-Felder III"
- tech_adaptive_bureaucracy_desc: "Der Fortschritt, den wir machen, erfordert eine neue, flinkere Form der Verwaltung, die uns in unserem Streben eher helfen als behindern kann. #PUT IN REPLACE"
+ tech_adaptive_bureaucracy_desc: "Der Fortschritt, den wir machen, erfordert eine neue, flinkere Form der Verwaltung, die uns in unserem Streben eher helfen als behindern kann. 
  tech_adaptive_bureaucracy_undine_desc: "Mehrere Verwaltungsebenen leiten effizient nur die wichtigsten Informationen an die oberen Ebenen der Regierung weiter."
  tech_adaptive_bureaucracy_undine: "Anpassungsfähige Bürokratie"
- tech_adaptive_bureaucracy: "Anpassungsfähige Bürokratie #PUT INTO REPLACE"
+ tech_adaptive_bureaucracy: "Anpassungsfähige Bürokratie 
  tech_adaptive_categorisation_borg_desc: "$tech_adaptive_categorisation_machine_desc$"
  tech_adaptive_categorisation_borg: "$tech_adaptive_categorisation_machine$"
  tech_adaptive_categorisation_machine_desc: "Die Fortschritte, die wir machen, erfordern eine neue Form von Lösungen für die Kategorisierung der Verwaltung."
@@ -26717,7 +26684,7 @@
  tech_borg_modification_enhanced_prosthetics_desc: "$tr_borg_modification_enhanced_prosthetics_delayed$"
  tech_borg_modification_enhanced_prosthetics_unlock_title: "§HEigenschaft freischalten:§! Hinzufügen von physischen Implantaten\n§HUnlocks Funktion:§! Ändern der Gewöhnungseigenschaften"
  tech_borg_modification_enhanced_prosthetics: "$tr_borg_modification_enhanced_prosthetics$."
- tech_borg_modification_modifier_desc: "$species_trait_points_add$: $POINTS|0=+$ $POINTS|0=+$ #BEWEGEN, UM ZU ERSETZEN"
+ tech_borg_modification_modifier_desc: "$species_trait_points_add$: $POINTS|0=+$ $POINTS|0=+$ 
  tech_borg_modification_remedial_modifications_desc: "$tr_borg_modification_remedial_modifications_delayed$"
  tech_borg_modification_remedial_modifications_unlock_title: "§HEntsperrt Merkmal:§! Hinzufügen von Kompensationsimplantaten"
  tech_borg_modification_remedial_modifications: "$tr_borg_modification_remedial_modifications$"
@@ -27530,25 +27497,25 @@
  tech_collective_purpose_6: "Kollektiver Zweck III"
  tech_collective_purpose_8_desc: "$tech_collective_purpose_0_desc$"
  tech_collective_purpose_8: "Kollektiver Zweck IV"
- tech_collective_self_desc: "Aspekte des Selbst in der Gruppe zu finden ist natürlich und unvermeidlich; schließlich müssen diese gemeinsamen Aspekte höher bewertet werden als individuelle Identitäten. #PUT INTO REPLACE"
- tech_collective_self: "Das kollektive Selbst #PUT INTO REPLACE"
- tech_colonial_bureaucracy_desc: "Lokale administrative Entwicklungen ermöglichen eine engere Überwachung der kolonialen Angelegenheiten, ohne die zentrale Entscheidungsfindung übermäßig zu belasten. #ERSETZEN"
+ tech_collective_self_desc: "Aspekte des Selbst in der Gruppe zu finden ist natürlich und unvermeidlich; schließlich müssen diese gemeinsamen Aspekte höher bewertet werden als individuelle Identitäten. 
+ tech_collective_self: "Das kollektive Selbst 
+ tech_colonial_bureaucracy_desc: "Lokale administrative Entwicklungen ermöglichen eine engere Überwachung der kolonialen Angelegenheiten, ohne die zentrale Entscheidungsfindung übermäßig zu belasten. 
  tech_colonial_bureaucracy_undine_desc: "Mehrere Verwaltungsschichten leiten nur die wichtigsten Informationen an die oberen Regierungsebenen weiter."
  tech_colonial_bureaucracy_undine: "Reichsübergreifende Bürokratie"
- tech_colonial_bureaucracy: "Koloniale Bürokratie #PUT INTO REPLACE"
+ tech_colonial_bureaucracy: "Koloniale Bürokratie 
  tech_colonial_categorisation_borg_desc: "$tech_colonial_categorisation_machine_desc$"
  tech_colonial_categorisation_borg: "$tech_colonial_categorisation_machine$ $tech_colonial_categorisation_machine$"
  tech_colonial_categorisation_machine_desc: "Lokale Verwaltungskategorisierungslösungen ermöglichen eine engere Überwachung der entfernten Knotenpunkte, ohne die zentralen Koordinierungsressourcen übermäßig zu belasten."
  tech_colonial_categorisation_machine: "Multi-System-Kategorisierung"
  tech_colonization_1: "Neue Welten Protokoll"
- tech_colonization_2_desc: "Durch die Anpassung der atmosphärischen Filterung auf Standortbasis, um unerwünschte Elemente besser herauszufiltern, können die Lebensbedingungen in den Kolonien verbessert werden. #ERSETZEN"
- tech_colonization_2: "Atmosphärische Filterung #MOVE TO REPLACE"
- tech_colonization_3_desc: "Weitere Studien über die gefährlichen Umgebungen auf anderen Planeten tragen dazu bei, die Schwierigkeiten zu lindern, die Kolonisatoren in ihrem täglichen Leben auf fremden Welten haben. #UMZIEHEN ZUM ERSETZEN"
- tech_colonization_3: "Anpassung an feindliche Umgebungen #MOVE TO REPLACE"
- tech_colonization_4_desc: "Ausführliche Studien über verschiedene Bodentypen und ihre Fähigkeit, Pflanzen zu ernähren, werden dazu beitragen, die Lebensbedingungen unserer Siedler auf fremden Welten zu verbessern. #UMZIEHEN ZUM ERSETZEN"
- tech_colonization_4: "Anreicherung fremder Böden #MOVE TO REPLACE"
- tech_colonization_5_desc: "Weitere Studien über verschiedene Klimazonen werden es uns ermöglichen, unsere Bevölkerung auf Welten anzusiedeln, die bisher als zu lebensfeindlich galten. #ERSETZEN"
- tech_colonization_5: "Studien zur Öko-Integration #VERKEHR ZUM ERSETZEN"
+ tech_colonization_2_desc: "Durch die Anpassung der atmosphärischen Filterung auf Standortbasis, um unerwünschte Elemente besser herauszufiltern, können die Lebensbedingungen in den Kolonien verbessert werden. 
+ tech_colonization_2: "Atmosphärische Filterung 
+ tech_colonization_3_desc: "Weitere Studien über die gefährlichen Umgebungen auf anderen Planeten tragen dazu bei, die Schwierigkeiten zu lindern, die Kolonisatoren in ihrem täglichen Leben auf fremden Welten haben. 
+ tech_colonization_3: "Anpassung an feindliche Umgebungen 
+ tech_colonization_4_desc: "Ausführliche Studien über verschiedene Bodentypen und ihre Fähigkeit, Pflanzen zu ernähren, werden dazu beitragen, die Lebensbedingungen unserer Siedler auf fremden Welten zu verbessern. 
+ tech_colonization_4: "Anreicherung fremder Böden 
+ tech_colonization_5_desc: "Weitere Studien über verschiedene Klimazonen werden es uns ermöglichen, unsere Bevölkerung auf Welten anzusiedeln, die bisher als zu lebensfeindlich galten. 
+ tech_colonization_5: "Studien zur Öko-Integration 
  tech_colony_settlement_1_desc: "Durch den Einsatz vorgefertigter Strukturen und harmonisierter Konstruktionsprinzipien können neue Kolonien schneller errichtet werden."
  tech_colony_settlement_1: "Vorgefertigte Kolonien"
  tech_colony_settlement_4_desc: "Durch den Einsatz vorgefertigter Strukturen und harmonisierter Konstruktionsprinzipien können neue Kolonien schneller errichtet werden."
@@ -27791,8 +27758,8 @@
  tech_crew_training_machine_4: "Vorbereitungsprozesse für mobile Einheiten"
  tech_crew_training_machine_8_desc: "Verbesserte Vorbereitungsprozesse ermöglichen eine höhere Vorbereitungsrate für mobile Einheiten."
  tech_crew_training_machine_8: "Verbesserte Vorbereitungsprozesse für mobile Einheiten"
- tech_cross_breeding_desc: "Während die Genome der meisten Ethnien zu weit voneinander entfernt sind, als dass eine normale Fortpflanzung lebensfähige Nachkommen hervorbringen könnte, sind in vielen Fällen nur geringfügige genetische Anpassungen erforderlich. #BEWEGEN UM ZU ERSETZEN"
- tech_cross_breeding: "Interspezies-Kompatibilität #Zum Ersetzen verschieben"
+ tech_cross_breeding_desc: "Während die Genome der meisten Ethnien zu weit voneinander entfernt sind, als dass eine normale Fortpflanzung lebensfähige Nachkommen hervorbringen könnte, sind in vielen Fällen nur geringfügige genetische Anpassungen erforderlich. 
+ tech_cross_breeding: "Interspezies-Kompatibilität 
  tech_cruiser_0_refit_unlock_desc: "Tier 0 Kreuzer umrüsten"
  tech_cruiser_0_unlock_desc: "Tier 0 Kreuzer"
  tech_cruiser_1_refit_unlock_desc: "Tier 1 Kreuzer nachrüsten"
@@ -27873,14 +27840,14 @@
  tech_damage_control_teams_5: "Aktualisierte Schadenskontrollprotokolle"
  tech_damage_control_teams_9_desc: "$tech_damage_control_teams_1_desc$ $tech_damage_control_teams_1_desc$"
  tech_damage_control_teams_9: "Erweiterte Schadenskontrollprotokolle"
- tech_dangerous_wildlife_desc: "Die taktische Störung natürlicher Lebensräume in Kombination mit konvergierenden Such- und Zerstörungsmustern kann feindliche Wildtiere in sehr kurzer Zeit effektiv eliminieren. #ENTFERNEN UND ERSETZEN"
- tech_dangerous_wildlife: "Beseitigung gefährlicher Wildtiere #MOVE TO REPLACE"
+ tech_dangerous_wildlife_desc: "Die taktische Störung natürlicher Lebensräume in Kombination mit konvergierenden Such- und Zerstörungsmustern kann feindliche Wildtiere in sehr kurzer Zeit effektiv eliminieren. 
+ tech_dangerous_wildlife: "Beseitigung gefährlicher Wildtiere 
  tech_deassimilate_1_desc: "Die Verstümmelung, die Individuen während des Assimilationsprozesses erfahren, kann brutal sein. Selbst die fortschrittlichsten Techniken sind nicht in der Lage, jedes Implantat zu entfernen oder jede ehemalige Drohne zu retten."
  tech_deassimilate_1: "De-Assimilierungs-Methoden"
  tech_deassimilate_2_desc: "$tech_deassimilate_1_desc$"
  tech_deassimilate_2: "Fortgeschrittene De-Assimilierungsmethoden"
- tech_deep_sinkhole_desc: "Viele Planeten weisen große unterirdische Hohlräume auf. Durch unterirdische Erkundung, Ausbeutung und Bautechniken kann die bewohnbare Fläche einiger Welten erheblich vergrößert werden. #BEWEGEN UM ZU ERSETZEN"
- tech_deep_sinkhole: "Unterirdische Kolonisierung #VERKEHREN ZUM ERSETZEN"
+ tech_deep_sinkhole_desc: "Viele Planeten weisen große unterirdische Hohlräume auf. Durch unterirdische Erkundung, Ausbeutung und Bautechniken kann die bewohnbare Fläche einiger Welten erheblich vergrößert werden. 
+ tech_deep_sinkhole: "Unterirdische Kolonisierung 
  tech_denobulan_barzai_1_desc: "Die $denobulan_barzai$ ist mit vier kleinen Energiewaffenstellungen ausgestattet."
  tech_denobulan_barzai_1: "$denobulan_barzai$"
  tech_denobulan_barzai_2_desc: "Die $denobulan_barzai_mid_2$ rüstet die $denobulan_barzai$ mit zusätzlichen technischen Kapazitäten aus."
@@ -27904,8 +27871,8 @@
  tech_denobulan_ruzan_3_desc: "Der $denobulan_ruzan_mid_3$ Refit erweitert die $denobulan_ruzan$ um einen Torpedowerfer und zusätzliche Hilfskapazität."
  tech_denobulan_ruzan_3: "$denobulan_ruzan$ - $denobulan_ruzan_mid_3$ Nachrüstung"
  tech_denobulan_ruzan_unlock_title: "§HEntsperrt Schiffstyp:§! $denobulan_ruzan$"
- tech_dense_jungle_desc: "Gründliche Katalogisierung, Gensequenzierung und Computermodellierung exobotischer Ökosysteme, gekoppelt mit Gen-Editierung und Ausbreitungsmechanismen, werden es uns ermöglichen, fremde Pflanzengemeinschaften nach unserem Geschmack umzugestalten. #MOVE TO REPLACE"
- tech_dense_jungle: "Selektive Entlaubungsmittel #MOVE TO REPLACE"
+ tech_dense_jungle_desc: "Gründliche Katalogisierung, Gensequenzierung und Computermodellierung exobotischer Ökosysteme, gekoppelt mit Gen-Editierung und Ausbreitungsmechanismen, werden es uns ermöglichen, fremde Pflanzengemeinschaften nach unserem Geschmack umzugestalten. 
+ tech_dense_jungle: "Selektive Entlaubungsmittel 
  tech_dervish_device_desc: "Das Derwisch-Gerät erhöht die Feuerrate von Waffen, ohne die strukturelle Integrität zu beeinträchtigen."
  tech_dervish_device_unlock_title: "§HUnlocks Component:§! $REQUIRED_FRIGATE_COUNTERMEASURES_DERVISH_5$"
  tech_dervish_device: "Derwisch-Gerät"
@@ -28869,10 +28836,10 @@
  tech_galactic_ambitions_undine_9: "Erweiterte Expansionslogistik"
  tech_galactic_ambitions_undine_repeatable_desc: "Die Infrastruktur, die benötigt wird, um ein Netzwerk von Sternenbasen in diesem Reich zu unterhalten, ist kompliziert. Es sind neue Techniken erforderlich, um eine effektive Instandhaltung der weit entfernten Außenposten zu gewährleisten."
  tech_galactic_ambitions_undine_repeatable: "Fortlaufende Expansionslogistik"
- tech_galactic_bureaucracy_desc: "Mehrere Verwaltungsschichten leiten nur die wichtigsten Informationen an die oberen Regierungsebenen weiter. #ERSETZEN"
+ tech_galactic_bureaucracy_desc: "Mehrere Verwaltungsschichten leiten nur die wichtigsten Informationen an die oberen Regierungsebenen weiter. 
  tech_galactic_bureaucracy_undine_desc: "Mehrere Verwaltungsebenen leiten nur die wichtigsten Informationen an die oberen Ebenen der Regierung weiter."
  tech_galactic_bureaucracy_undine: "Flüssige Bürokratie"
- tech_galactic_bureaucracy: "Galaktische Bürokratie #PUT INTO REPLACE"
+ tech_galactic_bureaucracy: "Galaktische Bürokratie 
  tech_galactic_categorisation_borg_desc: "$tech_galactic_categorisation_machine_desc$"
  tech_galactic_categorisation_borg: "$tech_galactic_categorisation_machine$ $tech_galactic_categorisation_machine$"
  tech_galactic_categorisation_machine_desc: "Universelle administrative Kategorisierungsschemata leiten nur die wichtigsten Informationen an die zentralen Koordinationsressourcen weiter."
@@ -28883,7 +28850,7 @@
  tech_galactic_trading_2: "Handel im Weltraum"
  tech_galactic_trading_4_desc: "Der interstellare Handel wird sowohl durch die Entfernungen als auch durch die beteiligten Kulturen erschwert. Durch die Einführung anerkannter Standards können einige dieser Komplikationen beseitigt werden."
  tech_galactic_trading_4: "Galaktischer Handel"
- tech_gene_tailoring_modifier_desc: "$species_trait_points_add$: $POINTS|0=+$ #ZUM ERSETZEN VERSCHIEBEN"
+ tech_gene_tailoring_modifier_desc: "$species_trait_points_add$: $POINTS|0=+$ 
  tech_generic_01_cenox_1_desc: "Die $generic_01_cenox$ ist mit zwei großen und drei extragroßen Energiewaffenstellungen, einem Torpedowerfer und zwei Kampfflügeln ausgestattet."
  tech_generic_01_cenox_1: "$generic_01_cenox$"
  tech_generic_01_cenox_2_desc: "Die $generic_01_cenox_mid_2$ Nachrüstung fügt der $generic_01_cenox$ zwei Kampfflügel hinzu."
@@ -29218,14 +29185,14 @@
  tech_global_containment_maintenance: "Wartung eines globalen Eindämmungsfeldes"
  tech_global_defense_grid_borg_desc: "Der strategische Wert von Welten kann variieren, aber mit entsprechenden Protokollen und Befestigungspunkten können die für das Kollektiv wichtigen Welten geschützt werden."
  tech_global_defense_grid_borg: "Verbesserte planetare Verteidigungsanlagen"
- tech_global_defense_grid_desc: "Der strategische Wert einer guten Verteidigung ist heute noch genauso wichtig wie für unsere Vorgänger in der fernen Vergangenheit. Technologie macht Befestigungen nicht überflüssig - sie verändert lediglich ihre Anforderungen. #UMZIEHEN UM ZU ERSETZEN"
- tech_global_defense_grid: "Globales Verteidigungsnetz #MOVE TO REPLACE"
+ tech_global_defense_grid_desc: "Der strategische Wert einer guten Verteidigung ist heute noch genauso wichtig wie für unsere Vorgänger in der fernen Vergangenheit. Technologie macht Befestigungen nicht überflüssig - sie verändert lediglich ihre Anforderungen. 
+ tech_global_defense_grid: "Globales Verteidigungsnetz 
  tech_global_production_strategy_borg_desc: "Planeten und Unicomplexe sind groß und die Produktionsstätten sind oft durch große Entfernungen voneinander getrennt. Ein dediziertes Prozess-Mapping kann dafür sorgen, dass alle Drohnen effizient arbeiten."
- tech_global_production_strategy_borg: "Einheitliche Produktionsprozesse #MOVE TO REPLACE"
- tech_global_production_strategy_desc: "Planeten sind groß und Produktionsstätten sind oft durch große Entfernungen voneinander getrennt. Eine kohärente Strategie, die sicherstellt, dass alle an einem Strang ziehen, ist oft erforderlich. #UMZIEHEN UM ZU ERSETZEN"
- tech_global_production_strategy_undine_desc: "Die Planeten dieses Reiches sind groß und die Produktionsstätten sind oft durch große Entfernungen voneinander getrennt. Flexible Strategien können dafür sorgen, dass Komponenten und Waren dorthin gebracht werden können, wo sie gebraucht werden. #BEWEGEN UM ZU ERSETZEN"
- tech_global_production_strategy_undine: "Strategien für flüssige Produktion #MOVE TO REPLACE"
- tech_global_production_strategy: "Globale Produktionsstrategie #MOVE TO REPLACE"
+ tech_global_production_strategy_borg: "Einheitliche Produktionsprozesse 
+ tech_global_production_strategy_desc: "Planeten sind groß und Produktionsstätten sind oft durch große Entfernungen voneinander getrennt. Eine kohärente Strategie, die sicherstellt, dass alle an einem Strang ziehen, ist oft erforderlich. 
+ tech_global_production_strategy_undine_desc: "Die Planeten dieses Reiches sind groß und die Produktionsstätten sind oft durch große Entfernungen voneinander getrennt. Flexible Strategien können dafür sorgen, dass Komponenten und Waren dorthin gebracht werden können, wo sie gebraucht werden. 
+ tech_global_production_strategy_undine: "Strategien für flüssige Produktion 
+ tech_global_production_strategy: "Globale Produktionsstrategie 
  tech_gorn_adder_1_desc: "Die $gorn_adder$ ist mit zwei kleinen Energiewaffenstellungen und einem Torpedowerfer ausgestattet."
  tech_gorn_adder_1: "$gorn_adder$"
  tech_gorn_adder_2_desc: "Durch die $gorn_adder_mid_2$ Umrüstung erhält die $gorn_adder$ zusätzliche technische Kapazitäten."
@@ -29403,8 +29370,8 @@
  tech_ground_assault_doctrine_9: "Bodenangriffs-Doktrin: Automatisierte Verteidigungsanlagen"
  tech_ground_defense_planning_borg_desc: "Durch die Koordinierung der Aktionen lokaler Offensivkräfte kann eine umfassendere Verteidigungsstellung aufrechterhalten werden."
  tech_ground_defense_planning_borg: "Protokolle der Bodenverteidigung"
- tech_ground_defense_planning_desc: "Es gibt viele außerirdische Imperien, die unsere Welten gerne für sich beanspruchen würden. Wir müssen auf sie vorbereitet sein, sollte das Schlimmste eintreten. #UMZIEHEN UM ZU ERSETZEN"
- tech_ground_defense_planning: "Planung der Bodenverteidigung #MOVE TO REPLACE"
+ tech_ground_defense_planning_desc: "Es gibt viele außerirdische Imperien, die unsere Welten gerne für sich beanspruchen würden. Wir müssen auf sie vorbereitet sein, sollte das Schlimmste eintreten. 
+ tech_ground_defense_planning: "Planung der Bodenverteidigung 
  tech_h_class_colonisation_desc: "Um eine dauerhafte Präsenz auf einer feindlichen Welt zu etablieren, bedarf es effektiver Techniken und Prozesse zur Milderung der Umwelt."
  tech_h_class_colonisation: "Kolonisierung der Klasse H"
  tech_hazari_afan_1_desc: "Die $hazari_afan$ ist mit einem Punkt, zwei kleinen und zwei großen Energiewaffenstellungen ausgestattet."
@@ -31173,7 +31140,7 @@
  tech_manxilite_corruption_2_desc: "Ein Impfstoff gegen die manxilithische Verderbnis könnte diese schreckliche Krankheit ausrotten."
  tech_manxilite_corruption_2: "Impfstoff gegen die manxilithische Verderbnis"
  tech_massive_glacier_desc: "Orbitale Spiegel- und Schattensysteme können dramatische Veränderungen des planetarischen Klimas bewirken, wenn sie richtig gesteuert werden."
- tech_massive_glacier: "Klimakontrollnetzwerk #MOVE TO REPLACE"
+ tech_massive_glacier: "Klimakontrollnetzwerk 
  tech_maturation_chamber_2_desc: "Aktualisierte Prozesse ermöglichen eine Reduzierung der Ressourcen, die für die Reifung von Babydrohnen benötigt werden."
  tech_maturation_chamber_2: "Effizienz bei der Reifung"
  tech_maturation_chamber_5_desc: "Überarbeitete Protokolle können die Anzahl der Drohnen, die gleichzeitig reifen können, erhöhen."
@@ -31292,8 +31259,8 @@
  tech_monoclinic_paguphage_1: "Monokline Paguphage Behandlungen"
  tech_monoclinic_paguphage_2_desc: "Ein Impfstoff gegen die monoklinen Paguphage könnte diese schreckliche Krankheit ausrotten."
  tech_monoclinic_paguphage_2: "Impfstoff gegen monokline Paguphage"
- tech_mountain_range_desc: "Mit dem Aufkommen der sauberen Fusion, der Automatisierung und der Materieverdichtungstechnologien war es nur eine Frage der Zeit, bis aus dem Abbau von Berggipfeln der Abbau von Gebirgszügen wurde. #UMZIEHEN UM ZU ERSETZEN"
- tech_mountain_range: "Planetarisches Resurfacing #MOVE TO REPLACE"
+ tech_mountain_range_desc: "Mit dem Aufkommen der sauberen Fusion, der Automatisierung und der Materieverdichtungstechnologien war es nur eine Frage der Zeit, bis aus dem Abbau von Berggipfeln der Abbau von Gebirgszügen wurde. 
+ tech_mountain_range: "Planetarisches Resurfacing 
  tech_n_class_colonisation_desc: "Um eine dauerhafte Präsenz auf einer feindlichen Welt zu etablieren, bedarf es effektiver Techniken und Prozesse zur Milderung der Umwelt."
  tech_n_class_colonisation: "N-Klasse Kolonisierung"
  tech_nakuhl_aemoros_1_desc: "Die $nakuhl_aemoros$ ist mit einer Punkt-, zwei mittleren und einer großen Energiewaffenanlage und zwei Torpedowerfern ausgestattet."
@@ -31421,8 +31388,8 @@
  tech_node_management_protocols_3: "Knotenverwaltungsprotokolle III"
  tech_node_management_protocols_4_desc: "$tech_node_management_protocols_1_desc$"
  tech_node_management_protocols_4: "Knotenverwaltungsprotokolle IV"
- tech_noxious_swamp_desc: "Sapient-Rassen haben seit Tausenden von Jahren Sumpfgebiete urbar gemacht. Ein koordiniertes System modularer Aquadukte, Pumpstationen, chemischer Sanierungsraupen und automatischer Bodenverdichter kann Land in nie dagewesener Geschwindigkeit zurückgewinnen. #BEWEGEN UM ZU ERSETZEN"
- tech_noxious_swamp: "Xeno-Hydraulische Meisterleistung #MOVE TO REPLACE "
+ tech_noxious_swamp_desc: "Sapient-Rassen haben seit Tausenden von Jahren Sumpfgebiete urbar gemacht. Ein koordiniertes System modularer Aquadukte, Pumpstationen, chemischer Sanierungsraupen und automatischer Bodenverdichter kann Land in nie dagewesener Geschwindigkeit zurückgewinnen. 
+ tech_noxious_swamp: "Xeno-Hydraulische Meisterleistung 
  tech_nyberrite_fidelite_1_desc: "Die $nyberrite_fidelite$ ist mit einer Punkt- und einer mittleren Energiewaffenanlage ausgestattet."
  tech_nyberrite_fidelite_1: "$nyberrite_fidelite$"
  tech_nyberrite_fidelite_2_desc: "Die $nyberrite_fidelite_mid_2$ rüstet die $nyberrite_fidelite$ mit zusätzlichen technischen Kapazitäten aus."
@@ -32516,8 +32483,8 @@
  tech_quantum_torpedo_8: "Quantum Torpedos Mk VIII"
  tech_quantum_torpedo_9_desc: "$QUANTUM_TORPEDO_DESC$"
  tech_quantum_torpedo_9: "Quanten-Torpedos Mk IX"
- tech_quicksand_basin_desc: "Der Prozess der Bodenablagerung dauert normalerweise Millionen von Jahren. Mit fortschrittlichen Fracking-, Chemietechnik- und Hydraulikmanagement-Technologien kann selbst der ärmste Untergrund in fruchtbaren Mutterboden verwandelt werden. #UMZIEHEN UM ZU ERSETZEN"
- tech_quicksand_basin: "Bodensanierung #MOVE TO REPLACE"
+ tech_quicksand_basin_desc: "Der Prozess der Bodenablagerung dauert normalerweise Millionen von Jahren. Mit fortschrittlichen Fracking-, Chemietechnik- und Hydraulikmanagement-Technologien kann selbst der ärmste Untergrund in fruchtbaren Mutterboden verwandelt werden. 
+ tech_quicksand_basin: "Bodensanierung 
  tech_radiation_resilience_desc: "Die Beispiele ausgestorbener Zivilisationen geben uns die Möglichkeit, unsere Widerstandsfähigkeit gegen bestimmte radiologische Bedrohungen zu optimieren."
  tech_radiation_resilience: "Radiologische Widerstandsfähigkeit"
  tech_reactive_isolationism_2_desc: "Viele Arten fürchten das Kollektiv. Ein System des reaktiven Isolationismus kann die scheinbare Bedrohung verringern, bis das Kollektiv handeln will."
@@ -33534,7 +33501,7 @@
  tech_space_construction_8_desc: "$tech_space_construction_0_desc$"
  tech_space_construction_8: "Raumfahrt-Konstruktionstechniken V"
  tech_space_exploration_desc: "Die Verwirklichung der Überlichtgeschwindigkeit ist eine neue Ära für die Erforschung des Weltraums. Bemannte Missionen zu anderen Sternensystemen sind jetzt nicht nur möglich, sondern notwendig."
- tech_space_exploration: "Weltraumerkundung #"
+ tech_space_exploration: "Weltraumerkundung 
  tech_space_mining_1_desc: "Die Gewinnung von wertvollen und anderweitig nützlichen Materialien von Asteroiden- und Planetenoberflächen durch orbitale Einrichtungen ist ein komplexer Prozess, der einer Vielzahl von Effizienzmöglichkeiten unterliegt."
  tech_space_mining_1: "Techniken des Weltraumbergbaus I"
  tech_space_mining_10_desc: "$tech_space_mining_1_desc$"
@@ -33629,8 +33596,6 @@
  tech_spiritual_heritage_0: "Spirituelles Erbe I"
  tech_spiritual_heritage_3_desc: "$tech_spiritual_heritage_0_desc$"
  tech_spiritual_heritage_3: "Spirituelles Erbe II"
- tech_spiritual_heritage_5_desc: "$tech_spiritual_heritage_0_desc$"
- tech_spiritual_heritage_5: "Spirituelles Erbe III"
  tech_spiritual_heritage_6_desc: "$tech_spiritual_heritage_0_desc$"
  tech_spiritual_heritage_6: "Spirituelles Erbe IV"
  tech_spiritual_heritage_8_desc: "$tech_spiritual_heritage_0_desc$"
@@ -35300,8 +35265,8 @@
  tech_torpedo_speed_8: "Torpedo-Impuls-Antriebe VIII"
  tech_torpedo_speed_9_desc: "$tech_torpedo_speed_1_desc$"
  tech_torpedo_speed_9: "Torpedo-Impuls-Antriebe IX"
- tech_toxic_kelp_desc: "Mit genügend Rechenleistung, vernetzten Sensoren und verteilten Stationen lassen sich sogar die Meeresströmungen bis zu einem gewissen Grad steuern. #ZUM ERSETZEN VERSCHIEBEN"
- tech_toxic_kelp: "Management der Meeresökologie #MOVE TO REPLACE"
+ tech_toxic_kelp_desc: "Mit genügend Rechenleistung, vernetzten Sensoren und verteilten Stationen lassen sich sogar die Meeresströmungen bis zu einem gewissen Grad steuern. 
+ tech_toxic_kelp: "Management der Meeresökologie 
  tech_trabe_autocrat_0_desc: "Die grundlegenden Designprinzipien hinter der $trabe_autocrat$ Designlinie."
  tech_trabe_autocrat_0: "$trabe_autocrat$ Entwurfsprinzipien"
  tech_trabe_autocrat_1_desc: "Die grundlegenden Designprinzipien hinter der $trabe_autocrat$ Designlinie."
@@ -36126,8 +36091,8 @@
  tech_vidiian_triage_unlock_title: "§HEntsperrt Schiffstyp:§! $vidiian_triage$"
  tech_viral_resilience_desc: "Die Analyse der genetischen Abwehrkräfte eines Ökosystems gegen ein uraltes Virus kann unsere eigenen viralen Abwehrkräfte verbessern."
  tech_viral_resilience: "Virale Widerstandsfähigkeit"
- tech_volcano_desc: "Fortschritte in der Materialtechnologie und im Tiefschachtabbau ermöglichen Geo-Engineering in bisher undenkbaren Tiefen und Temperaturen. Magma-Hotspots können jetzt ausgebeutet, unterdrückt oder sogar verlagert werden. #UMZIEHEN UM ZU ERSETZEN"
- tech_volcano: "Deep Crust Engineering #MOVE TO REPLACE"
+ tech_volcano_desc: "Fortschritte in der Materialtechnologie und im Tiefschachtabbau ermöglichen Geo-Engineering in bisher undenkbaren Tiefen und Temperaturen. Magma-Hotspots können jetzt ausgebeutet, unterdrückt oder sogar verlagert werden. 
+ tech_volcano: "Deep Crust Engineering 
  tech_vorta_cloning_desc: "Das wiederholte Klonen erfordert eine Reihe von Lösungen, um den genetischen Verfall zu verhindern. Die Spezies der Vorta wurde gezüchtet, um die ideale Verwaltungsklasse zu sein."
  tech_vorta_cloning: "Vorta-Klonvorlagen"
  tech_voth_albinykus_1_desc: "Die $voth_albinykus$ ist mit drei kleinen Energiewaffenstationen ausgestattet."
@@ -42115,21 +42080,21 @@
 
  occupation_authority_1_modifier: "Boni der Besatzungsmacht I"
  occupation_authority_1_penalties: "Strafen für Besatzungsmacht I"
- occupation_authority_1_puppet_government: "Marionettenregierung #Gut"
- occupation_authority_1_infrastructure_investment: "Infrastruktur-Investitionen #Gut"
- occupation_authority_1_passive_dissent: "Passiver Dissens #gemischt"
+ occupation_authority_1_puppet_government: "Marionettenregierung 
+ occupation_authority_1_infrastructure_investment: "Infrastruktur-Investitionen 
+ occupation_authority_1_passive_dissent: "Passiver Dissens 
 
  occupation_authority_2_modifier: "Besatzungsmacht Boni II"
  occupation_authority_2_penalties: "Sanktionen der Besatzungsmacht II"
- occupation_authority_2_societal_restructuring: "Gesellschaftliche Umstrukturierung #Mixed"
- occupation_authority_2_workforce_reallocation: "Reallokation von Arbeitskräften #Mixed"
- occupation_authority_2_civil_disorder: "Zivile Unruhen #Schlecht"
+ occupation_authority_2_societal_restructuring: "Gesellschaftliche Umstrukturierung 
+ occupation_authority_2_workforce_reallocation: "Reallokation von Arbeitskräften 
+ occupation_authority_2_civil_disorder: "Zivile Unruhen 
 
  occupation_authority_3_modifier: "Berufsbehörde Boni III"
  occupation_authority_3_penalties: "Berufsautorität Sanktionen III"
- occupation_authority_3_iron_grip: "Eiserner Griff #Schlecht"
- occupation_authority_3_zero_tolerance: "Null-Toleranz #Schrecklich"
- occupation_authority_3_armed_resistance: "Bewaffneter Widerstand #Schrecklich"
+ occupation_authority_3_iron_grip: "Eiserner Griff 
+ occupation_authority_3_zero_tolerance: "Null-Toleranz 
+ occupation_authority_3_armed_resistance: "Bewaffneter Widerstand 
 
  war_goal_wg_forced_occupation: "Erzwungene Besatzung"
  war_goal_wg_forced_occupation_desc: "Der Krieg wird geführt, um den Feind als Besatzungsmacht zu unterwerfen.\n\nIm Falle eines Status Quo-Friedens werden die von uns besetzten Systeme als neue Besatzungsmacht freigegeben, wenn sie mindestens einen Planeten umfassen."
