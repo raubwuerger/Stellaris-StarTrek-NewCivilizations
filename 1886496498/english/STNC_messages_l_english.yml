@@ -56,6 +56,10 @@
 
  MESSAGE_TYPE_KETRACEL_WITHDRAWAL_DEATH_MESSAGE: "A large number of $SPECIES|Y$ on $PLANET|Y$ have died after suffering the effects of Ketracel White withdrawal."
  MESSAGE_TYPE_KETRACEL_WITHDRAWAL_DEATH_TITLE: "Ketracel Withdrawal"
+
+ MESSAGE_TYPE_KETRACEL_WITHDRAWAL_CURE_MESSAGE: "A number of $SPECIES|Y$ on $PLANET|Y$ have developed an immunity to the effects of Ketracel White withdrawal."
+ MESSAGE_TYPE_KETRACEL_WITHDRAWAL_CURE_TITLE: "Ketracel Immunity"
+
  MESSAGE_TYPE_KOBALI_CONVERT_MESSAGE: "A significant portion of the $OLD_SPECIES|Y$ population on $PLANET|Y$ have been reborn as Kobali."
  MESSAGE_TYPE_KOBALI_CONVERT_TITLE: "Necrogenesis"
 
@@ -1494,7 +1498,7 @@
  ulani_belor_catch_phrase: "It is so rare to meet a non-Cardassian who appreciates our literature."
  vakel_shon_backstory: "Born 2363, §Y[This.GetName]§! is an [This.Species.GetName] commander with varied experience, as a tactical officer, explorer and diplomat credited with numerous first contacts. Though a passionate individual, [This.GetSheHe] has learned to set emotions aside when the situation demands. Also a skilled ushaan-tor duelist."
  vakel_shon_catch_phrase: "We've lost too much already. We cannot lose any more. Eventually, we will all need to put our differences aside and unite."
- valeris_backstory: "An incredibly talented officer, §Y[This.GetName]§! is the first [This.Species.GetName] to graduate top of [This.GetHerHis] class at the academy. Supported and sponsored by various senior leaders, but viewed by some as arrogant and bigoted."
+ valeris_backstory: "Regarded as a talented officer, §Y[This.GetName]§! has been supported and sponsored by a number of senior leaders, but is viewed as arrogant by some."
  valeris_catch_phrase: "May I remind you that regulations specify thrusters only whilst in spacedock."
  vanik_backstory: "§Y[This.GetName]§! is a [This.Species.GetName] starship commander, with expertise in both tactical operations and first contact missions. Perceived as stoic and aloof by members of other species."
  vanik_catch_phrase: "Your inexperience and your arrogance are your enemies."
@@ -1548,6 +1552,8 @@
  tpol_catch_phrase: "There's a difference between keeping an open mind and believing something because you want it to be true."
  vlar_backstory: "A prominent diplomat, §Y[This.GetName]§! is known for [This.GetHerHis] skill in negotiations with other species."
  vlar_catch_phrase: "Someday, I'd like to walk into a room without it feeling like a state visit."
+ vrel_catch_phrase: "Discipline is the foundation of command."
+ vrel_backstory: "[Root.GetName] is a by-the-books officer, noted for [Root.GetHerHis] uncompromising discipline and aversion to unnecessary risk."
 
  thylek_shran_backstory: "Following in [This.GetHerHis] family's footsteps, §Y[This.GetName]§! joined the military and became known as a ruthless commander who doesn't leave debts unpaid."
  thylek_shran_catch_phrase: "Join me in a drink to celebrate our mutual dissatisfaction."

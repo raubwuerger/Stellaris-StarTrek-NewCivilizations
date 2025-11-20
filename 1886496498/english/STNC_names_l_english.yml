@@ -1164,8 +1164,8 @@
  NAME_north_star: "North Star Confederation"
  NAME_NRGC_Random: "NRGC [Leader.GetGQRandomSystemNum]"
 
- NAME_Mycelial_Random_Location: "[GetMycelialRandomLocationTypeA] [Leader.GetGQRandomSystemNum] [system_num_b] [GetMycelialRandomLocationTypeB]"
- NAME_Prototaxites_Stellaviatori_Nursery_Name: "[GetMycelialRandomLocationTypeA] [Leader.GetGQRandomSystemNum] [system_num_b] [GetMycelialRandomLocationTypeB] Prototaxites Stellaviatori Nursery"
+ NAME_Mycelial_Random_Location: "[Leader.GetMycelialRandomLocationTypeA] [Leader.GetGQRandomSystemNum] [Leader.GetGQRandomSystemNumB] [Leader.GetMycelialRandomLocationTypeB]"
+ NAME_Prototaxites_Stellaviatori_Nursery_Name: "[GetMycelialRandomLocationTypeA] [GetGQRandomSystemNum] [GetGQRandomSystemNumB] [GetMycelialRandomLocationTypeB] Prototaxites Stellaviatori Nursery"
  NAME_Tethos: "Tethos"
  NAME_Zerokos: "Zerokos"
  NAME_Nyxkos: "Nyxkos"
