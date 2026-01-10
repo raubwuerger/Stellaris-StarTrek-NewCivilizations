@@ -1,6 +1,6 @@
 ﻿l_english: 
 
- accession_country_integration_in_progress: "§HIntegrating New Member Worlds§! §R--§!"
+ accession_country_integration_in_progress: "§HIntegrating New Member Worlds§! §R--§!:\n\t"
  accession_country_opener: "The [This.GetName]'s response is likely to be affected by:\n"
  accession_country_opinion_excellent: "§HEmpire Opinion§! §G++§!"
  accession_country_opinion_good: "§HEmpire Opinion§! §G+§!"
