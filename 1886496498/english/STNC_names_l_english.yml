@@ -602,7 +602,7 @@
  format.TAM_totalitarian_names: "<TAM_totalitarian_names>"
  format.TAM_traditionalist_names: "<TAM_traditionalist_names>"
  format.TAM_xenoist_names: "<TAM_xenoist_names>"
- format.tamarian_unity: "Tamarian Unity"
+ format.tamarian_unity: "Children of Tama"
  format.TEL_imperialist_names: "<TEL_imperialist_names>"
  format.TEL_isolationist_names: "<TEL_isolationist_names>"
  format.TEL_progressive_names: "<TEL_progressive_names>"
@@ -1149,6 +1149,7 @@
  NAME_morali_states: "Morali States"
  NAME_Motal: "Motal"
  NAME_Mothballed_Fleet: "Mothballed Fleet"
+ NAME_Mothballing_Fleet: "Mothballing Fleet"
  NAME_Nakuhl_Purity_Adjective: "Na'kuhl"
  NAME_Nausicaan_Tribes_Adjective: "Nausicaan"
  NAME_nausicaan_tribes: "Nausicaan Tribes"
@@ -2498,7 +2499,7 @@
  NAME_talaxian_empire: "Talaxian Commonality"
  NAME_Talosian_Remnant: "Talosian Remnant"
  NAME_Tamarian_Unity_Adjective: "Tamarian"
- NAME_tamarian_unity: "Tamarian Unity"
+ NAME_tamarian_unity: "Children of Tama"
  NAME_target_name: "[target.GetName]"
  NAME_target_ship_name: "[target.GetName]"
  NAME_Tarl_Civilization_Adjective: "Tarl"
@@ -3526,3 +3527,17 @@
  NAME_Metar_Jii_a: "Jii Class Attack Wing"
  NAME_Metar_Jii_b: "Jii Class Attack Wing"
  NAME_Metar_Jii_c: "Jii Class Attack Wing"
+
+ NAME_Korgal_The_Sceptic: "Korgal the Sceptic"
+
+
+ format.galardonian_high_council: "Galardonian High Council"
+
+ NAME_Sikarian_Fable_Early: "$sikarian_fable$"
+ NAME_Sikarian_Fable_Mid: "$sikarian_fable$"
+ NAME_Sikarian_Fable_Late: "$sikarian_fable$"
+
+
+ NAME_Xyrillian_Commonwealth: "Xyrillian Commonwealth"
+
+ format.xyrillian_commonwealth: "Xyrillian Commonwealth"
