@@ -697,6 +697,7 @@
  format.VOT_traditionalist_names: "<VOT_traditionalist_names>"
  format.VOT_xenoist_names: "<VOT_xenoist_names>"
  format.voth_theocracy: "Voth Theocracy"
+ format.voth_orthodoxy: "Voth Orthodoxy"
  format.VUL_imperialist_names: "<VUL_imperialist_names>"
  format.VUL_isolationist_names: "<VUL_isolationist_names>"
  format.VUL_progressive_names: "<VUL_progressive_names>"
@@ -830,6 +831,7 @@
  NAME_Bolin: "Bolin"
  NAME_Boltur: "Bol'tur"
  NAME_borg_auxiliary_sphere: "[Root.FromFrom.GetName] - Auxiliary"
+ NAME_borg_auxiliary_octohedron: "[Root.FromFrom.GetName] - Auxiliary"
  NAME_borg_fusion_cube_cube: "[Root.FromFrom.GetName] - Constituent"
  NAME_Borg_Collective_Adjective: "Borg"
  NAME_Borg_Collective: "Borg Collective"
@@ -2624,6 +2626,8 @@
  NAME_Voth_Plural: "Voth"
  NAME_Voth_Theocracy_Adjective: "Voth"
  NAME_Voth_Theocracy: "Voth Theocracy"
+ NAME_Voth_Orthodoxy_Adjective: "Voth"
+ NAME_Voth_Orthodoxy: "Voth Orthodoxy"
  NAME_Voth: "Voth"
  NAME_VS_SHIP_NAME_A: "[This.GetName] VS-[This.builtShips]"
  NAME_VSS_Seleya: "VSS Seleya"
@@ -3524,6 +3528,7 @@
  NAME_Redmatter_Blackhole: "Red Matter Blackhole"
  NAME_One_of_Five: "Five of Five"
 
+ NAME_Metar_Jii: "Jii Class Attack Wing"
  NAME_Metar_Jii_a: "Jii Class Attack Wing"
  NAME_Metar_Jii_b: "Jii Class Attack Wing"
  NAME_Metar_Jii_c: "Jii Class Attack Wing"
@@ -3541,3 +3546,16 @@
  NAME_Xyrillian_Commonwealth: "Xyrillian Commonwealth"
 
  format.xyrillian_commonwealth: "Xyrillian Commonwealth"
+ NAME_Protomatter_Asteroid: "Protomatter Asteroid"
+
+ NAME_Purple_Enterprise: "USS Enterprise"
+ NAME_Continuity_Guard_Flagship: "Continuity Guard Flagship"
+ NAME_Data: "Data"
+ NAME_communications_array: "[This.System.GetName] Array"
+
+ NAME_Galactic_Union: "Galactic Union"
+ NAME_Galactic_Union_Adjective: "Union"
+ NAME_Coalition_of_Madena: "Coalition of Madena"
+
+ PRESCRIPTED_ruler_first_name_VothOrthodoxy: "Tolin"
+ PRESCRIPTED_ruler_second_name_VothOrthodoxy: "Veer"
