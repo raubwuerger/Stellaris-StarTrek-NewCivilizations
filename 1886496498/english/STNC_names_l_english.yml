@@ -2598,6 +2598,7 @@
  NAME_Unicomplex_05: "Unicomplex 05"
  NAME_Unicomplex_Expansion: "Unicomplex Expansion Location"
  NAME_Unicomplex_Planet_Name: "Unicomplex [This.GetUnicomplexNumber] [This.GetUnicomplexLetter]"
+ NAME_Unicomplex_Hab_Name: "Unicomplex [This.GetUnicomplexNumber]"
  NAME_Unicomplex_Section_Alpha: "Unicomplex 01 Hub"
  NAME_Unicomplex_Section_Beta: "Unicomplex 02 Hub"
  NAME_Unicomplex_System_Name: "Unicomplex [Prev.GetUnicomplexNumber]"
@@ -3559,3 +3560,9 @@
 
  PRESCRIPTED_ruler_first_name_VothOrthodoxy: "Tolin"
  PRESCRIPTED_ruler_second_name_VothOrthodoxy: "Veer"
+
+ NAME_Earth_Khanate_Adjective: "Khanate"
+
+ NAME_City_Ship: "City Ship"
+
+ NAME_antimatter_generator_station: "Antimatter Depot"
